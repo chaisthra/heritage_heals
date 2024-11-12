@@ -1,0 +1,3641 @@
+prompt,completion
+"Generate a fusion recipe based on this description: Traditional Thai fish cakes with a Western twist, served with a dipping sauce.","Thai Fish Cakes
+
+Primary Ingredients: White fish fillets, garlic, kaffir lime leaves
+
+Cooking Method: Shallow-Frying
+
+Steps (Brief): Process fish, mix with ingredients, form patties, fry, serve hot."
+Generate a fusion recipe based on this description: A rich and fragrant curry blending Thai and Indian flavors with creamy coconut.,"Fragrant Sweet Yellow Chicken Curry
+
+Primary Ingredients: Chicken, curry paste, coconut cream, sweet potato
+
+Cooking Method: Frying, Simmering
+
+Steps (Brief): Marinate chicken, fry with curry paste, add vegetables, simmer."
+"Generate a fusion recipe based on this description: A quick and easy sweet potato curry with Thai flavors, adaptable to various cuisines.","Quick Sweet Potato Curry
+
+Primary Ingredients: Sweet potato, curry paste, coconut cream
+
+Cooking Method: Simmering
+
+Steps (Brief): Boil coconut cream, add curry paste, cook sweet potato, season, serve."
+"Generate a fusion recipe based on this description: Spring rolls with a Thai-Vietnamese fusion, filled with spiced beef and basil.","Scented Beef & Basil Spring Rolls
+
+Primary Ingredients: Beef mince, curry paste, basil, spring roll sheets
+
+Cooking Method: Frying/Baking
+
+Steps (Brief): Cook filling, wrap in spring roll sheets, fry or bake until golden."
+Generate a fusion recipe based on this description: A creamy dessert combining Thai ingredients with French custard techniques.,"Lime and Palm Sugar Creams
+
+Primary Ingredients: Coconut cream, lime zest, palm sugar, egg yolks
+
+Cooking Method: Baking
+
+Steps (Brief): Boil cream, mix with yolks, bake in ramekins, caramelize top."
+Generate a fusion recipe based on this description: A silky smooth panna cotta with tropical Thai flavors and Italian technique.,"Lime and Coconut Panna Cotta
+
+Primary Ingredients: Coconut cream, lime zest, basil, gelatin
+
+Cooking Method: Chilling
+
+Steps (Brief): Boil cream, dissolve gelatin, chill in molds, serve with fruit."
+Generate a fusion recipe based on this description: A refreshing and aromatic ice cream that blends Thai ingredients with Western dessert style.,"Kaffir Lime and Coconut Ice Cream
+
+Primary Ingredients: Coconut cream, kaffir lime, palm sugar
+
+Cooking Method: Freezing
+
+Steps (Brief): Mix ingredients, freeze, churn, serve with lime syrup and puree."
+"Generate a fusion recipe based on this description: A versatile and aromatic Thai curry paste, essential for various fusion dishes.","Chiang Mai Curry Paste
+
+Primary Ingredients: Red chillies, ginger, lemongrass, shrimp paste
+
+Cooking Method: Grinding
+
+Steps (Brief): Blend all ingredients into a smooth paste, store for use in curries."
+Generate a fusion recipe based on this description: A deeply spiced curry paste combining Thai and Indian influences.,"Massaman Curry Paste
+
+Primary Ingredients: Coriander seeds, cumin, cinnamon, cardamom
+
+Cooking Method: Roasting, Grinding
+
+Steps (Brief): Roast spices, grind with wet ingredients, use in curries."
+Generate a fusion recipe based on this description: A sweet and spicy sauce perfect for dipping or as a salad dressing.,"Sweet Chilli Sauce
+
+Primary Ingredients: Sugar, chillies, lime juice, garlic
+
+Cooking Method: Boiling
+
+Steps (Brief): Boil ingredients, reduce to thick sauce, cool before serving."
+Generate a fusion recipe based on this description: A Thai-inspired take on crème brûlée,"Lime and Palm Sugar Creams
+
+Primary Ingredients: Coconut cream, lime, palm sugar, egg yolks
+
+Cooking Method: Baking, Broiling
+
+Steps (Brief): 1. Heat cream with aromatics 2. Mix with egg yolks 3. Bake in a water bath 4. Top with sugar and caramelize"
+Generate a fusion recipe based on this description: A tropical twist on the classic Italian dessert,"Lime and Palm Sugar Creams
+
+Primary Ingredients: Coconut cream, lime, Thai basil, gelatine
+
+Cooking Method: Heating, Chilling
+
+Steps (Brief): 1. Heat cream with aromatics 2. Add gelatine 3. Strain and pour into molds 4. Chill until set"
+Generate a fusion recipe based on this description: A no-churn ice cream with Thai flavors,"Lime and Palm Sugar Creams
+
+Primary Ingredients: Coconut cream, lime, kaffir lime, palm sugar, condensed milk
+
+Cooking Method: Freezing, Churning
+
+Steps (Brief): 1. Mix all ingredients 2. Freeze 3. Churn periodically 4. Serve with kaffir lime syrup"
+Generate a fusion recipe based on this description: Crispy pork skin snack or garnish,"Crispy Pork Rinds (Kaeb Moo)
+
+Primary Ingredients: Pork skin, salt, black soy sauce, lard, pandan leaves
+
+Cooking Method: Frying
+
+Steps (Brief): 1. Clean and marinate pork skin 2. Fry in lard with pandan 3. Cool and deep fry until crispy"
+Generate a fusion recipe based on this description: Sun-dried and deep-fried pork strips,"Deep-Fried Sun-Dried Pork Strips (Moo Daed Diaw)
+
+Primary Ingredients: Pork tenderloin, coriander, garlic, white pepper, oyster sauce, fish sauce
+
+Cooking Method: Sun-drying, Deep-frying
+
+Steps (Brief): 1. Marinate pork 2. Sun-dry for 3 hours 3. Deep-fry with kaffir lime leaves"
+Generate a fusion recipe based on this description: Spicy fish cakes served with dipping sauce,"Deep-Fried Fish Cakes (Tod Man Pla)
+
+Primary Ingredients: Minced fish, curry paste, long beans, kaffir lime leaves
+
+Cooking Method: Deep-frying
+
+Steps (Brief): 1. Mix fish with curry paste and seasonings 2. Shape into patties 3. Deep-fry until golden brown"
+Generate a fusion recipe based on this description: Crispy pastry pouches filled with savory mixture,"Money Bags (Toong Ngern)
+
+Primary Ingredients: Ground pork or tofu, potato or pumpkin, spring roll pastry
+
+Cooking Method: Frying
+
+Steps (Brief): 1. Prepare filling 2. Wrap in pastry 3. Fry until golden"
+Generate a fusion recipe based on this description: Creamy coconut soup with aromatic herbs,"Coconut Soup with Chicken (Tom Kha Gai)
+
+Primary Ingredients: Chicken, coconut milk, lemongrass, galangal, kaffir lime leaves
+
+Cooking Method: Boiling
+
+Steps (Brief): 1. Boil chicken 2. Add herbs and coconut milk 3. Season and simmer"
+Generate a fusion recipe based on this description: Rich chicken stew served over noodles,"Noodle Soup with Chicken (Guai Tiew Gai Toon)
+
+Primary Ingredients: Chicken, rice noodles, bitter gourd, spices
+
+Cooking Method: Boiling, Stewing
+
+Steps (Brief): 1. Stew chicken with spices 2. Prepare noodles and vegetables 3. Combine and serve with condiments"
+Generate a fusion recipe based on this description: Light and healthy vegetable soup,"Bok Choy Soup (Soup Bok)
+
+Primary Ingredients: Pork ribs or tofu, bok choy, ginger, tamarind sauce
+
+Cooking Method: Boiling
+
+Steps (Brief): 1. Boil pork ribs 2. Add bok choy and seasonings 3. Simmer until vegetables are soft"
+Generate a fusion recipe based on this description: Aromatic and herb-rich northern Thai curry,"Northern Thai Pork Curry (Gaeng Om Moo)
+
+Primary Ingredients: Pork, curry paste, herbs, vegetables
+
+Cooking Method: Stir-frying, Simmering
+
+Steps (Brief): 1. Stir-fry curry paste 2. Add pork and herbs 3. Simmer with water until tender"
+Generate a fusion recipe based on this description: A mixed curry with various ingredients,"Northern Thai Mixed Curry (Gaeng Hor)
+
+Primary Ingredients: Pork, chicken, bamboo shoots, eggplant, glass noodles
+
+Cooking Method: Stir-frying
+
+Steps (Brief): 1. Stir-fry curry paste 2. Add meats and vegetables 3. Incorporate glass noodles"
+Generate a fusion recipe based on this description: Rich coconut curry served with both boiled and fried noodles,"Northern Thai Coconut Curry with Noodles and Chicken (Kao Soi Gai)
+
+Primary Ingredients: Chicken legs, egg noodles, coconut milk, curry paste
+
+Cooking Method: Boiling, Frying
+
+Steps (Brief): 1. Prepare curry paste 2. Simmer chicken in coconut curry 3. Prepare boiled and fried noodles 4. Assemble and serve"
+Generate a fusion recipe based on this description: Spicy and aromatic green curry,"Green Curry (Gaeng Kiao Wan)
+
+Primary Ingredients: Green chilies, coconut milk, chicken, eggplant, basil
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Make green curry paste 2. Simmer coconut milk with paste 3. Add chicken and vegetables"
+Generate a fusion recipe based on this description: Rich and spicy red curry,"Red Curry (Gaeng Ped)
+
+Primary Ingredients: Red chilies, coconut milk, meat, bamboo shoots
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Prepare red curry paste 2. Simmer with coconut milk 3. Add meat and vegetables"
+"Generate a fusion recipe based on this description: Spicy, water-based curry without coconut milk","Jungle Curry (Gaeng Pa)
+
+Primary Ingredients: Mixed vegetables, meat, curry paste, herbs
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Stir-fry curry paste 2. Add meat and vegetables 3. Simmer with water and herbs"
+Generate a fusion recipe based on this description: Light curry with bok choy as the main vegetable,"Bok Choy Curry (Gaeng Bok)
+
+Primary Ingredients: Bok choy, meat, curry paste
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Prepare curry paste 2. Simmer meat 3. Add bok choy and cook until tender"
+"Generate a fusion recipe based on this description: Rich, slightly sweet curry with Burmese influences","Northern Thai Burmese-style Curry (Gaeng Hanglae)
+
+Primary Ingredients: Pork, ginger, peanuts, tamarind, curry paste
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Marinate pork in curry paste 2. Simmer with spices and peanuts 3. Add tamarind for sourness"
+"Generate a fusion recipe based on this description: Thick, porridge-like curry with rice","Karen Rice Curry (Kao Buer)
+
+Primary Ingredients: Rice, meat, vegetables, curry paste
+
+Cooking Method: Boiling, Simmering
+
+Steps (Brief): 1. Stir-fry meat with curry paste 2. Add rice and simmer 3. Incorporate vegetables"
+Generate a fusion recipe based on this description: Spicy dipping sauce featuring galangal,"Galangal Chili Paste (Nam Prik Kha)
+
+Primary Ingredients: Galangal, dried chilies, garlic, shrimp paste
+
+Cooking Method: Pounding
+
+Steps (Brief): 1. Roast ingredients 2. Pound into a paste 3. Mix with additional seasonings"
+Generate a fusion recipe based on this description: Savory and slightly sweet chili paste,"Pork & Tomato Chili Paste (Nam Prik Ong)
+
+Primary Ingredients: Ground pork, tomatoes, chilies, garlic
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Fry aromatics 2. Add pork and tomatoes 3. Simmer until thick"
+Generate a fusion recipe based on this description: Spicy pork-based dipping sauce,"Minced Pork Chili Paste (Nam Prik Moo)
+
+Primary Ingredients: Ground pork, chilies, garlic, shallots
+
+Cooking Method: Pounding, Mixing
+
+Steps (Brief): 1. Cook pork 2. Pound chilies and aromatics 3. Mix with cooked pork"
+Generate a fusion recipe based on this description: Smoky eggplant dip with a spicy kick,"Eggplant Dip (Nam Prik Makeua Yao)
+
+Primary Ingredients: Grilled eggplant, chilies, garlic, fish sauce
+
+Cooking Method: Grilling, Mashing
+
+Steps (Brief): 1. Grill eggplant 2. Mash with spices and seasonings 3. Mix well"
+Generate a fusion recipe based on this description: Savory mashed jackfruit dish,"Mashed Jackfruit (Tam Khanun)
+
+Primary Ingredients: Young jackfruit, pork (optional), chilies, garlic
+
+Cooking Method: Boiling, Mashing
+
+Steps (Brief): 1. Boil jackfruit 2. Mash with spices 3. Mix with optional pork"
+Generate a fusion recipe based on this description: Spicy and tangy grilled pork salad,"Spicy Grilled Pork Salad (Moo Yang Namtok)
+
+Primary Ingredients: Grilled pork, chilies, shallots, mint, lime juice
+
+Cooking Method: Grilling, Mixing
+
+Steps (Brief): 1. Grill pork 2. Slice and mix with herbs and dressing 3. Serve with vegetables"
+Generate a fusion recipe based on this description: Spicy minced meat salad,"Minced Pork Salad (Larb Moo)
+
+Primary Ingredients: Ground pork, chilies, shallots, mint, toasted rice powder
+
+Cooking Method: Cooking, Mixing
+
+Steps (Brief): 1. Cook pork 2. Mix with herbs and seasonings 3. Add toasted rice powder"
+Generate a fusion recipe based on this description: Vegetarian version of the popular larb salad,"Mushroom Salad (Larb Hed)
+
+Primary Ingredients: Mixed mushrooms, chilies, shallots, mint, lime juice
+
+Cooking Method: Mixing
+
+Steps (Brief): 1. Cook mushrooms 2. Mix with herbs and seasonings 3. Add toasted rice powder"
+Generate a fusion recipe based on this description: Spicy fish salad with aromatic herbs,"Fish Salad (Larb Pla Duk)
+
+Primary Ingredients: Minced fish, lemongrass, kaffir lime leaves, chilies
+
+Cooking Method: Cooking, Mixing
+
+Steps (Brief): 1. Cook and flake fish 2. Mix with herbs and seasonings 3. Add crispy fried fish scales"
+Generate a fusion recipe based on this description: Spicy and tangy long bean salad,"Long Bean Salad (Tam Tua)
+
+Primary Ingredients: Long beans, tomatoes, chilies, fish sauce, lime juice
+
+Cooking Method: Pounding, Mixing
+
+Steps (Brief): 1. Pound ingredients in a mortar 2. Mix with dressing 3. Adjust seasonings to taste"
+Generate a fusion recipe based on this description: Classic spicy and sour green papaya salad,"Green Papaya Salad (Som Tam)
+
+Primary Ingredients: Green papaya, tomatoes, long beans, chilies, fish sauce
+
+Cooking Method: Pounding, Mixing
+
+Steps (Brief): 1. Shred papaya 2. Pound ingredients in a mortar 3. Mix with dressing"
+Generate a fusion recipe based on this description: Tangy and spicy glass noodle salad,"Glass Noodle Salad (Yam Wun Sen)
+
+Primary Ingredients: Glass noodles, ground pork, shrimp, tomatoes, celery
+
+Cooking Method: Boiling, Mixing
+
+Steps (Brief): 1. Cook noodles and protein 2. Mix with vegetables and dressing 3. Serve chilled"
+Generate a fusion recipe based on this description: Spicy stir-fry with crispy pork and fragrant basil,"Stir-Fried Crispy Pork with Basil (Pad Krapao Moo Grob)
+
+Primary Ingredients: Crispy pork belly, holy basil, chilies, garlic
+
+Cooking Method: Stir-frying
+
+Steps (Brief): 1. Fry pork belly until crispy 2. Stir-fry with garlic and chilies 3. Add holy basil"
+Generate a fusion recipe based on this description: Thai-inspired pizza with spicy pork topping,"Stir-Fried Pork with Basil Pizza (Pad Krapao Moo Pizza)
+
+Primary Ingredients: Pizza dough, stir-fried pork with basil, mozzarella
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Prepare pad krapao topping 2. Spread on pizza dough 3. Top with cheese and bake"
+Generate a fusion recipe based on this description: Delicate steamed fish with tangy lime sauce,"Steamed Fish with Spicy Lime Sauce (Pla Neung Manao)
+
+Primary Ingredients: White fish, lime juice, chilies, garlic, fish sauce
+
+Cooking Method: Steaming
+
+Steps (Brief): 1. Steam whole fish 2. Prepare spicy lime sauce 3. Pour sauce over fish before serving"
+Generate a fusion recipe based on this description: Salt-crusted grilled fish with aromatic herbs,"Grilled Fish (Pla Pao)
+
+Primary Ingredients: Whole fish, lemongrass, kaffir lime leaves, salt
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Stuff fish with herbs 2. Cover with salt 3. Grill until cooked"
+Generate a fusion recipe based on this description: Aromatic meat mixture steamed in banana leaves,"Meat Steamed in Banana Leaf (Hor Neung)
+
+Primary Ingredients: Ground meat or tofu, curry paste, vegetables
+
+Cooking Method: Steaming
+
+Steps (Brief): 1. Mix meat with curry paste and vegetables 2. Wrap in banana leaves 3. Steam until cooked"
+Generate a fusion recipe based on this description: Crispy fried chicken wings with savory fish sauce,"Fried Chicken Wings with Fish Sauce (Pig Gai Tod Nam Pla)
+
+Primary Ingredients: Chicken wings, fish sauce, garlic, pepper
+
+Cooking Method: Marinating, Frying
+
+Steps (Brief): 1. Mix fish sauce, soy sauce, and pepper for marinade 2. Massage marinade into chicken wings 3. Marinate in fridge for 40-60 minutes 4. Coat wings in tempura flour 5. Heat oil in a frying pan or pot 6. Fry wings until crispy and golden brown 7. Serve hot with dipping sauce"
+Generate a fusion recipe based on this description: Pizza topped with Thai green curry sauce and chicken.,"Thai Green Curry Pizza
+
+Primary Ingredients: Pizza dough, green curry sauce, chicken, mozzarella
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Spread green curry sauce on pizza dough 2. Add toppings 3. Bake until cheese is melted."
+Generate a fusion recipe based on this description: Creamy risotto infused with spicy tom yum flavors.,"Tom Yum Risotto
+
+Primary Ingredients: Arborio rice, tom yum paste, shrimp, coconut milk
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Cook Arborio rice 2. Stir in tom yum paste and coconut milk 3. Simmer with shrimp."
+Generate a fusion recipe based on this description: Tacos filled with tender massaman beef and pickled onions.,"Massaman Beef Tacos
+
+Primary Ingredients: Beef, massaman curry paste, tortillas, pickled onions
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Marinate beef in massaman curry paste 2. Grill and slice 3. Serve in tortillas with pickled onions."
+Generate a fusion recipe based on this description: A burrito filled with all the flavors of pad thai.,"Pad Thai Burrito
+
+Primary Ingredients: Rice noodles, chicken, pad thai sauce, tortilla
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Stir-fry chicken with pad thai sauce 2. Wrap in tortilla with noodles 3. Grill until crispy."
+"Generate a fusion recipe based on this description: Fried rice with sweet pineapple, ham, and cashews.","Pineapple Fried Rice with Ham
+
+Primary Ingredients: Pineapple, jasmine rice, ham, cashews
+
+Cooking Method: Stir-Frying
+
+Steps (Brief): 1. Stir-fry pineapple and ham 2. Add rice and seasonings 3. Serve with cashews."
+Generate a fusion recipe based on this description: Spaghetti served with Thai-spiced pork meatballs.,"Thai-Spiced Meatballs with Spaghetti
+
+Primary Ingredients: Ground pork, Thai spices, spaghetti, tomato sauce
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Mix ground pork with Thai spices 2. Form meatballs and bake 3. Serve with spaghetti and sauce."
+Generate a fusion recipe based on this description: Panna cotta flavored with coconut and lemongrass.,"Coconut-Lemongrass Panna Cotta
+
+Primary Ingredients: Coconut milk, lemongrass, gelatin, sugar
+
+Cooking Method: Chilling
+
+Steps (Brief): 1. Heat coconut milk with lemongrass 2. Add gelatin 3. Pour into molds and chill."
+Generate a fusion recipe based on this description: Sushi rolls filled with mango sticky rice.,"Mango Sticky Rice Sushi
+
+Primary Ingredients: Sticky rice, mango, nori, coconut milk
+
+Cooking Method: Rolling
+
+Steps (Brief): 1. Roll sticky rice and mango in nori 2. Slice into sushi pieces 3. Serve with coconut milk."
+Generate a fusion recipe based on this description: Pasta tossed with a Thai basil and peanut pesto.,"Thai Basil Pesto Pasta
+
+Primary Ingredients: Pasta, Thai basil, peanuts, garlic
+
+Cooking Method: Boiling
+
+Steps (Brief): 1. Blend Thai basil and peanuts into pesto 2. Toss with cooked pasta 3. Serve with garnish."
+Generate a fusion recipe based on this description: Lettuce wraps filled with spicy minced chicken.,"Larb Gai Lettuce Wraps
+
+Primary Ingredients: Ground chicken, fish sauce, lettuce, lime juice
+
+Cooking Method: Mixing
+
+Steps (Brief): 1. Cook ground chicken with fish sauce 2. Assemble in lettuce wraps 3. Serve with lime juice."
+Generate a fusion recipe based on this description: Crispy chicken wings coated in a Thai chili lime glaze.,"Thai Chili Lime Chicken Wings
+
+Primary Ingredients: Chicken wings, Thai chili, lime, fish sauce
+
+Cooking Method: Frying
+
+Steps (Brief): 1. Marinate chicken wings in chili lime sauce 2. Fry until crispy 3. Glaze with additional sauce."
+Generate a fusion recipe based on this description: Ramen noodles in a rich coconut curry broth.,"Coconut Curry Ramen
+
+Primary Ingredients: Ramen noodles, coconut milk, curry paste
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Cook ramen noodles 2. Simmer in coconut curry broth 3. Add toppings and serve."
+Generate a fusion recipe based on this description: Chewy peanut butter cookies with a Thai twist.,"Thai Peanut Butter Cookies
+
+Primary Ingredients: Peanut butter, flour, sugar, coconut
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Mix peanut butter with flour and sugar 2. Bake until golden 3. Cool before serving."
+Generate a fusion recipe based on this description: Lasagna layered with red curry and chicken.,"Red Curry Lasagna
+
+Primary Ingredients: Lasagna noodles, red curry sauce, ground chicken, ricotta
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Layer lasagna noodles with red curry and chicken 2. Bake until bubbly 3. Let cool before slicing."
+Generate a fusion recipe based on this description: Tiramisu infused with the flavors of Thai tea.,"Thai Tea Tiramisu
+
+Primary Ingredients: Thai tea, ladyfingers, mascarpone
+
+Cooking Method: Chilling
+
+Steps (Brief): 1. Brew Thai tea 2. Layer with ladyfingers and mascarpone 3. Chill before serving."
+Generate a fusion recipe based on this description: Quesadilla filled with stir-fried pork and basil.,"Pad Krapao Quesadilla
+
+Primary Ingredients: Tortilla, stir-fried pork, basil, cheese
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Cook pork with basil 2. Spread on tortilla 3. Add cheese and grill."
+Generate a fusion recipe based on this description: Salmon glazed with sweet chili sauce and lime.,"Sweet Chili Glazed Salmon
+
+Primary Ingredients: Salmon fillets, sweet chili sauce, lime
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Marinate salmon in sweet chili sauce 2. Bake until done 3. Squeeze lime before serving."
+Generate a fusion recipe based on this description: Pizza topped with Thai basil chicken.,"Thai Basil Chicken Pizza
+
+Primary Ingredients: Pizza dough, Thai basil chicken, mozzarella
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Spread basil chicken on pizza dough 2. Add cheese and bake 3. Serve hot."
+Generate a fusion recipe based on this description: A refreshing mango slaw with a Thai dressing.,"Thai Mango Slaw
+
+Primary Ingredients: Mango, cabbage, carrots, peanuts, lime
+
+Cooking Method: Mixing
+
+Steps (Brief): 1. Mix shredded mango and cabbage 2. Toss with Thai dressing 3. Serve chilled."
+Generate a fusion recipe based on this description: Mac and cheese with a hint of tom kha flavors.,"Tom Kha Mac and Cheese
+
+Primary Ingredients: Macaroni, cheese, coconut milk, galangal
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Cook macaroni in cheese sauce 2. Add galangal 3. Bake until golden."
+"Generate a fusion recipe based on this description: A Thai twist on the classic Middle Eastern dish, Shakshuka.","Thai-Inspired Shakshuka
+
+Primary Ingredients: Tomatoes, bell peppers, eggs, Thai spices
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Simmer tomatoes and bell peppers with Thai spices 2. Crack eggs on top 3. Cook until eggs are set."
+Generate a fusion recipe based on this description: Pasta infused with the flavors of Thai green curry.,"Green Curry Pasta
+
+Primary Ingredients: Pasta, green curry paste, coconut milk
+
+Cooking Method: Boiling
+
+Steps (Brief): 1. Boil pasta 2. Mix with green curry paste and coconut milk 3. Simmer until sauce thickens."
+Generate a fusion recipe based on this description: Tacos filled with Thai BBQ pork and a refreshing slaw.,"Thai BBQ Pork Tacos
+
+Primary Ingredients: Pork, Thai BBQ sauce, tortillas, slaw
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Grill pork with Thai BBQ sauce 2. Slice and serve in tortillas with slaw."
+Generate a fusion recipe based on this description: Pizza topped with Thai basil pesto and mozzarella.,"Thai Basil Pesto Pizza
+
+Primary Ingredients: Pizza dough, Thai basil, mozzarella, pesto
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Spread pesto on pizza dough 2. Add mozzarella and basil 3. Bake until cheese is melted."
+"Generate a fusion recipe based on this description: A creamy, comforting soup with a hint of Thai curry.","Coconut-Curry Butternut Squash Soup
+
+Primary Ingredients: Butternut squash, coconut milk, curry paste
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Simmer butternut squash with coconut milk and curry paste 2. Blend until smooth."
+Generate a fusion recipe based on this description: Noodles tossed in a spicy Thai peanut sauce.,"Spicy Thai Peanut Noodles
+
+Primary Ingredients: Noodles, peanut sauce, vegetables
+
+Cooking Method: Stir-Frying
+
+Steps (Brief): 1. Stir-fry noodles with peanut sauce and vegetables 2. Serve hot."
+Generate a fusion recipe based on this description: Fluffy pancakes with the sweet and sticky flavors of mango sticky rice.,"Mango Sticky Rice Pancakes
+
+Primary Ingredients: Pancake batter, sticky rice, mango
+
+Cooking Method: Griddling
+
+Steps (Brief): 1. Cook sticky rice 2. Mix with pancake batter 3. Cook on a griddle 4. Serve with mango slices."
+Generate a fusion recipe based on this description: A spicy Tom Yum twist on the classic Bloody Mary cocktail.,"Tom Yum Bloody Mary
+
+Primary Ingredients: Tom Yum paste, vodka, tomato juice
+
+Cooking Method: Mixing
+
+Steps (Brief): 1. Mix Tom Yum paste with vodka and tomato juice 2. Serve over ice with a garnish."
+Generate a fusion recipe based on this description: Grilled chicken skewers marinated in lemongrass and garlic.,"Lemongrass Chicken Skewers
+
+Primary Ingredients: Chicken, lemongrass, garlic, skewers
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Marinate chicken in lemongrass and garlic 2. Grill on skewers."
+Generate a fusion recipe based on this description: A vibrant quinoa salad with Thai spices and vegetables.,"Thai-Spiced Quinoa Salad
+
+Primary Ingredients: Quinoa, Thai spices, vegetables
+
+Cooking Method: Boiling
+
+Steps (Brief): 1. Cook quinoa 2. Mix with vegetables and Thai spices 3. Serve chilled."
+"Generate a fusion recipe based on this description: Rice noodles and chicken wrapped in tortillas, Pad See Ew style.","Pad See Ew Wrap
+
+Primary Ingredients: Rice noodles, soy sauce, chicken, tortillas
+
+Cooking Method: Stir-Frying
+
+Steps (Brief): 1. Stir-fry rice noodles with chicken and soy sauce 2. Wrap in tortillas."
+Generate a fusion recipe based on this description: Avocado toast with a spicy Thai kick.,"Thai-Spiced Avocado Toast
+
+Primary Ingredients: Avocado, Thai spices, bread
+
+Cooking Method: Toasting
+
+Steps (Brief): 1. Toast bread 2. Mash avocado with Thai spices 3. Spread on toast."
+Generate a fusion recipe based on this description: A fusion of Japanese miso soup and Thai Tom Yum flavors.,"Miso-Tom Yum Soup
+
+Primary Ingredients: Miso paste, Tom Yum paste, tofu
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Simmer miso paste with Tom Yum paste 2. Add tofu and serve."
+Generate a fusion recipe based on this description: Fried rice with a bold Thai green curry flavor.,"Thai Green Curry Fried Rice
+
+Primary Ingredients: Rice, green curry paste, vegetables
+
+Cooking Method: Stir-Frying
+
+Steps (Brief): 1. Stir-fry rice with green curry paste and vegetables 2. Serve hot."
+Generate a fusion recipe based on this description: Beef tacos with Thai-inspired spices and a zesty slaw.,"Thai-Style Beef Tacos
+
+Primary Ingredients: Beef, tortillas, Thai spices, slaw
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Grill beef with Thai spices 2. Serve in tortillas with slaw."
+Generate a fusion recipe based on this description: Grilled shrimp skewers with coconut and lime.,"Coconut Lime Shrimp Skewers
+
+Primary Ingredients: Shrimp, coconut milk, lime, skewers
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Marinate shrimp in coconut and lime 2. Grill on skewers."
+Generate a fusion recipe based on this description: Pizza topped with Thai peanut satay sauce and chicken.,"Thai Peanut Satay Pizza
+
+Primary Ingredients: Pizza dough, peanut sauce, chicken, mozzarella
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Spread peanut satay sauce on pizza dough 2. Add chicken and mozzarella 3. Bake."
+Generate a fusion recipe based on this description: Lasagna with layers of coconut curry and butternut squash.,"Coconut Curry Butternut Squash Lasagna
+
+Primary Ingredients: Lasagna noodles, butternut squash, curry paste
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Layer lasagna noodles with butternut squash and curry paste 2. Bake until bubbly."
+Generate a fusion recipe based on this description: Mac and cheese with a spicy Thai red curry twist.,"Thai Red Curry Mac and Cheese
+
+Primary Ingredients: Macaroni, cheese, red curry paste
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Mix cooked macaroni with cheese and red curry paste 2. Bake until golden."
+Generate a fusion recipe based on this description: Tacos filled with shrimp marinated in Tom Yum paste.,"Tom Yum Shrimp Tacos
+
+Primary Ingredients: Shrimp, tortillas, Tom Yum paste
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Marinate shrimp in Tom Yum paste 2. Grill and serve in tortillas."
+Generate a fusion recipe based on this description: Pizza topped with Thai BBQ chicken and mozzarella.,"Thai-Style BBQ Chicken Pizza
+
+Primary Ingredients: Pizza dough, BBQ chicken, mozzarella, Thai spices
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Spread BBQ chicken on pizza dough 2. Top with mozzarella and Thai spices 3. Bake until golden."
+Generate a fusion recipe based on this description: A Thai-inspired take on the classic potato salad.,"Coconut-Curry Potato Salad
+
+Primary Ingredients: Potatoes, coconut milk, curry paste
+
+Cooking Method: Boiling
+
+Steps (Brief): 1. Boil potatoes 2. Mix with coconut milk and curry paste 3. Chill before serving."
+Generate a fusion recipe based on this description: Shepherd's pie with a green curry twist.,"Green Curry Shepherd's Pie
+
+Primary Ingredients: Ground lamb, green curry paste, mashed potatoes
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Cook lamb with green curry paste 2. Top with mashed potatoes 3. Bake until golden."
+Generate a fusion recipe based on this description: Tacos filled with mango chili chicken.,"Mango Chili Chicken Tacos
+
+Primary Ingredients: Chicken, mango, chili, tortillas
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Grill chicken with mango and chili 2. Serve in tortillas."
+Generate a fusion recipe based on this description: A hearty lentil soup with Thai spices and coconut milk.,"Thai-Spiced Lentil Soup
+
+Primary Ingredients: Lentils, Thai spices, coconut milk
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Simmer lentils with Thai spices and coconut milk 2. Serve hot."
+Generate a fusion recipe based on this description: Fried rice with Thai basil and vegetables.,"Thai Basil Fried Rice
+
+Primary Ingredients: Rice, Thai basil, vegetables
+
+Cooking Method: Stir-Frying
+
+Steps (Brief): 1. Stir-fry rice with Thai basil and vegetables 2. Serve hot."
+Generate a fusion recipe based on this description: Mini beef sliders with a spicy Thai kick.,"Spicy Thai Beef Sliders
+
+Primary Ingredients: Beef sliders, Thai spices, sriracha mayo
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Grill beef sliders with Thai spices 2. Serve with sriracha mayo."
+Generate a fusion recipe based on this description: Grilled cheese sandwich with a lemongrass twist.,"Lemongrass Grilled Cheese
+
+Primary Ingredients: Bread, lemongrass, cheese
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Grill cheese sandwich with lemongrass 2. Serve hot."
+Generate a fusion recipe based on this description: Gnocchi served in a creamy Tom Yum sauce.,"Tom Yum Gnocchi
+
+Primary Ingredients: Gnocchi, Tom Yum paste, coconut milk
+
+Cooking Method: Boiling
+
+Steps (Brief): 1. Boil gnocchi 2. Mix with Tom Yum sauce and coconut milk."
+Generate a fusion recipe based on this description: Fluffy pancakes with a coconut flavor.,"Thai Coconut Pancakes
+
+Primary Ingredients: Coconut milk, pancake batter, palm sugar
+
+Cooking Method: Griddling
+
+Steps (Brief): 1. Mix pancake batter with coconut milk 2. Cook on a griddle 3. Serve with palm sugar."
+Generate a fusion recipe based on this description: Mango salad wrapped in tortillas.,"Thai Mango Salad Wraps
+
+Primary Ingredients: Mango, lettuce, Thai spices, tortillas
+
+Cooking Method: Rolling
+
+Steps (Brief): 1. Mix mango salad 2. Wrap in tortillas."
+Generate a fusion recipe based on this description: Chicken and waffles with a Thai spice blend.,"Thai Chicken and Waffles
+
+Primary Ingredients: Chicken, waffles, Thai spices
+
+Cooking Method: Frying
+
+Steps (Brief): 1. Fry chicken 2. Serve with waffles and Thai spice blend."
+Generate a fusion recipe based on this description: Pot pie filled with chicken in a red curry sauce.,"Red Curry Pot Pie
+
+Primary Ingredients: Chicken, red curry paste, puff pastry
+
+Cooking Method: Baking
+
+Steps (Brief): 1. Fill puff pastry with chicken and red curry 2. Bake until golden."
+Generate a fusion recipe based on this description: Creamy risotto infused with Tom Kha Gai flavors.,"Tom Kha Gai Risotto
+
+Primary Ingredients: Arborio rice, coconut milk, chicken, galangal
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Simmer risotto with coconut milk and galangal 2. Add chicken."
+Generate a fusion recipe based on this description: Chicken burgers seasoned with Thai spices.,"Thai-Spiced Chicken Burgers
+
+Primary Ingredients: Ground chicken, Thai spices, burger buns
+
+Cooking Method: Grilling
+
+Steps (Brief): 1. Grill chicken patties with Thai spices 2. Serve in burger buns."
+Generate a fusion recipe based on this description: Cold noodle salad with a Thai peanut sauce.,"Thai Peanut Noodle Salad
+
+Primary Ingredients: Noodles, peanut sauce, vegetables
+
+Cooking Method: Mixing
+
+Steps (Brief): 1. Mix noodles with peanut sauce and vegetables 2. Serve cold."
+Generate a fusion recipe based on this description: A vibrant vegetable stir fry with Thai spices.,"Thai-Inspired Veggie Stir Fry
+
+Primary Ingredients: Mixed vegetables, Thai spices, soy sauce
+
+Cooking Method: Stir-Frying
+
+Steps (Brief): 1. Stir-fry vegetables with Thai spices 2. Serve hot."
+Generate a fusion recipe based on this description: Shrimp and grits with a coconut curry sauce.,"Coconut Curry Shrimp and Grits
+
+Primary Ingredients: Shrimp, coconut milk, grits
+
+Cooking Method: Simmering
+
+Steps (Brief): 1. Simmer shrimp in coconut curry 2. Serve over grits."
+Generate a fusion recipe based on this description: Rich chocolate mousse with a hint of Thai chili.,"Thai Chili Chocolate Mousse
+
+Primary Ingredients: Chocolate, Thai chili, cream
+
+Cooking Method: Mixing
+
+Steps (Brief): 1. Mix chocolate with cream and Thai chili 2. Chill before serving."
+Generate a fusion recipe based on this description: A tall stack of pancakes with sticky rice and mango.,"Mango Sticky Rice Pancake Stack
+
+Primary Ingredients: Pancake batter, sticky rice, mango
+
+Cooking Method: Griddling
+
+Steps (Brief): 1. Cook sticky rice 2. Mix with pancake batter 3. Stack and serve with mango slices."
+"Generate a fusion recipe based on this description: A rich, creamy chicken curry with a tomato-based sauce","Butter Chicken
+
+Primary Ingredients: Chicken, tomatoes, cream, butter, spices
+
+Cooking Method: Grill, Simmer
+
+Steps (Brief): 1. Marinate chicken. 2. Grill chicken. 3. Prepare sauce. 4. Combine and simmer."
+Generate a fusion recipe based on this description: A creamy lentil dish cooked with butter and cream,"Dal Makhani
+
+Primary Ingredients: Black lentils, kidney beans, butter, cream
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Cook lentils. 2. Prepare tempering. 3. Combine and simmer."
+Generate a fusion recipe based on this description: Minced mutton balls cooked in a yogurt-based gravy,"Gushtaba
+
+Primary Ingredients: Minced mutton, curd, spices
+
+Cooking Method: Boil, Simmer
+
+Steps (Brief): 1. Prepare meatballs. 2. Boil in spiced water. 3. Cook in yogurt gravy."
+Generate a fusion recipe based on this description: Fried potatoes in a spicy yogurt gravy,"Kashmiri Dum Aloo
+
+Primary Ingredients: Potatoes, yogurt, spices
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Fry potatoes. 2. Prepare spice mixture. 3. Cook potatoes in yogurt gravy."
+Generate a fusion recipe based on this description: Gram flour dumplings in a spicy yogurt curry,"Gatte ki Sabzi
+
+Primary Ingredients: Gram flour dumplings, yogurt, spices
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Make dumplings. 2. Fry dumplings. 3. Prepare yogurt curry. 4. Simmer."
+"Generate a fusion recipe based on this description: A dish with lentils, baked wheat balls, and sweetened wheat crumbs","Daal Baati Choorma
+
+Primary Ingredients: Lentils, wheat flour, ghee, sugar
+
+Cooking Method: Bake, Simmer
+
+Steps (Brief): 1. Cook lentils. 2. Bake wheat balls. 3. Prepare sweetened crumbs."
+Generate a fusion recipe based on this description: A light fish and potato curry,"Macher Jhol
+
+Primary Ingredients: Fish, potatoes, tomatoes, spices
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Fry fish. 2. Prepare spice base. 3. Cook fish and potatoes in gravy."
+Generate a fusion recipe based on this description: A sweet milk-based dessert,"Sandesh
+
+Primary Ingredients: Milk, sugar, cardamom
+
+Cooking Method: Cook, Set
+
+Steps (Brief): 1. Make fresh cheese. 2. Mix with sugar and spices. 3. Shape and set."
+Generate a fusion recipe based on this description: A traditional dish made with spinach and lentils,"Spinach Khar
+
+Primary Ingredients: Spinach, pigeon peas, baking soda
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Cook lentils. 2. Sauté spinach with spices. 3. Combine and simmer."
+Generate a fusion recipe based on this description: A tangy fish curry,"Masor Tenga
+
+Primary Ingredients: Fish, tomatoes, lemon juice
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Fry fish. 2. Prepare tomato base. 3. Simmer fish in tangy gravy."
+Generate a fusion recipe based on this description: A spicy mutton curry,"Meat Salan
+
+Primary Ingredients: Mutton, onions, spices
+
+Cooking Method: Pressure cook
+
+Steps (Brief): 1. Marinate mutton. 2. Sauté onions and spices. 3. Pressure cook mutton."
+Generate a fusion recipe based on this description: Sweet pancakes soaked in sugar syrup,"Malpua
+
+Primary Ingredients: Flour, milk, sugar, cardamom
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Prepare batter. 2. Fry pancakes. 3. Soak in sugar syrup."
+Generate a fusion recipe based on this description: Thin gram flour rolls tempered with spices,"Khandvi
+
+Primary Ingredients: Gram flour, yogurt, spices
+
+Cooking Method: Steam, Roll
+
+Steps (Brief): 1. Cook gram flour batter. 2. Spread and cool. 3. Roll and temper."
+Generate a fusion recipe based on this description: A sweet dish made from strained yogurt,"Shrikhand
+
+Primary Ingredients: Yogurt, sugar, cardamom, saffron
+
+Cooking Method: Strain, Mix
+
+Steps (Brief): 1. Strain yogurt. 2. Mix with sugar and spices. 3. Chill and serve."
+Generate a fusion recipe based on this description: A spicy and tangy prawn curry with coconut milk,"Goan Prawn Curry
+
+Primary Ingredients: Prawns, coconut milk, spices
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Prepare spice paste. 2. Cook prawns. 3. Simmer in coconut milk gravy."
+Generate a fusion recipe based on this description: A multi-layered pudding,"Bebinca
+
+Primary Ingredients: Flour, eggs, coconut milk, sugar
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare batter. 2. Bake in layers. 3. Cool and slice."
+Generate a fusion recipe based on this description: A spicy mashed vegetable dish served with bread rolls,"Pav Bhaji
+
+Primary Ingredients: Mixed vegetables, bread rolls, butter
+
+Cooking Method: Mash, Fry
+
+Steps (Brief): 1. Boil and mash vegetables. 2. Prepare gravy. 3. Serve with bread rolls."
+Generate a fusion recipe based on this description: Sweet flatbread stuffed with lentil and jaggery mixture,"Puran Poli
+
+Primary Ingredients: Wheat flour, chana dal, jaggery
+
+Cooking Method: Stuff, Griddle
+
+Steps (Brief): 1. Prepare filling. 2. Make dough. 3. Stuff and cook on griddle."
+Generate a fusion recipe based on this description: A fragrant meat and rice dish,"Hyderabadi Biryani
+
+Primary Ingredients: Basmati rice, meat (usually goat or chicken), spices
+
+Cooking Method: Layer, Dum cook
+
+Steps (Brief): 1. Marinate meat. 2. Par-cook rice. 3. Layer meat and rice. 4. Cook on dum."
+Generate a fusion recipe based on this description: Tangy tamarind flavored rice,"Pulihora
+
+Primary Ingredients: Rice, tamarind, peanuts, spices
+
+Cooking Method: Mix, Temper
+
+Steps (Brief): 1. Cook rice. 2. Prepare tamarind mixture. 3. Mix and temper."
+Generate a fusion recipe based on this description: Crispy crepe filled with spicy potato mixture,"Mysore Masala Dosa
+
+Primary Ingredients: Rice, lentils, potatoes, spices
+
+Cooking Method: Ferment, Griddle
+
+Steps (Brief): 1. Prepare dosa batter. 2. Make potato filling. 3. Cook dosa and fill."
+Generate a fusion recipe based on this description: A spicy pork curry from Coorg region,"Coorgi Pork Curry
+
+Primary Ingredients: Pork, spices, vinegar
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Marinate pork. 2. Prepare spice paste. 3. Cook pork with spices."
+Generate a fusion recipe based on this description: Steamed rice cake served with black chickpea curry,"Puttu and Kadala Curry
+
+Primary Ingredients: Rice flour, black chickpeas, coconut
+
+Cooking Method: Steam, Simmer
+
+Steps (Brief): 1. Steam puttu. 2. Prepare kadala curry. 3. Serve together."
+Generate a fusion recipe based on this description: A fiery mutton dish from Chettinad region,"Chettinad Mutton
+
+Primary Ingredients: Mutton, spices, coconut
+
+Cooking Method: Pressure cook
+
+Steps (Brief): 1. Marinate mutton. 2. Prepare spice mix. 3. Pressure cook with spices."
+Generate a fusion recipe based on this description: A colorful South American twist on scrambled eggs with vegetables,"Perico Eggs with Peppers & Tomatoes
+
+Primary Ingredients: Eggs, bell peppers, tomatoes, scallions, garlic
+
+Cooking Method: Sauté
+
+Steps (Brief): 1. Whisk eggs. 2. Sauté veggies. 3. Add eggs and cook until barely set."
+Generate a fusion recipe based on this description: A protein-rich breakfast dish combining fried eggs with quinoa and vegetables,"South American Fried Eggs & Quinoa
+
+Primary Ingredients: Eggs, quinoa, black beans, avocado, tomatoes
+
+Cooking Method: Fry, Boil
+
+Steps (Brief): 1. Cook quinoa. 2. Prepare bean mixture. 3. Fry eggs. 4. Assemble dish."
+Generate a fusion recipe based on this description: A sweet breakfast treat with a crispy cinnamon exterior and custard-like interior,"Brazilian-Style French Toast
+
+Primary Ingredients: Bread, milk, eggs, cinnamon, sugar
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Prepare cinnamon-sugar mixture. 2. Dip bread in milk and eggs. 3. Fry bread. 4. Coat in cinnamon-sugar."
+"Generate a fusion recipe based on this description: A simple, hearty breakfast soup with milk and poached eggs","South American Milk Soup with Egg
+
+Primary Ingredients: Milk, eggs, scallions, cilantro, chives, bread
+
+Cooking Method: Boil, Poach
+
+Steps (Brief): 1. Boil milk mixture. 2. Poach eggs in soup. 3. Serve with toast."
+Generate a fusion recipe based on this description: A hearty soup popular on New Year's Day for prosperity,"Brazilian Lentil & Kale Soup
+
+Primary Ingredients: Lentils, kale, onion, carrots, celery, garlic
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Sauté vegetables. 2. Add lentils and stock. 3. Simmer. 4. Add kale at the end."
+"Generate a fusion recipe based on this description: A Peruvian dish known as Lomo Saltado, combining stir-fried beef with French fries","South American Stir-Fry Steak
+
+Primary Ingredients: Sirloin steak, onion, tomato, French fries, soy sauce
+
+Cooking Method: Stir-fry
+
+Steps (Brief): 1. Fry steak. 2. Stir-fry vegetables. 3. Combine with fries and sauce."
+"Generate a fusion recipe based on this description: Savory hand pies filled with ham and cheese, popular as snacks or appetizers","Ham & Cheese Mini Pies
+
+Primary Ingredients: Pie crust, ham, cheese, spices
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare filling. 2. Fill pie crusts. 3. Seal and bake."
+Generate a fusion recipe based on this description: A flavorful grilled fish dish presented in a lovely way,"South American Grilled Bass
+
+Primary Ingredients: Sea bass, butter, garlic, parsley, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Season fish. 2. Prepare garlic butter. 3. Grill fish. 4. Drizzle with butter sauce."
+Generate a fusion recipe based on this description: A popular Ecuadorian soup from the Andes highlands,"Ecuadorian Potato Soup
+
+Primary Ingredients: Potatoes, milk, cheese, avocado
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Sauté aromatics. 2. Cook potatoes. 3. Blend soup. 4. Add milk and cheese."
+Generate a fusion recipe based on this description: Pork tenderloin cubes simmered in a peanut-based broth with vegetables,"South American Classic Peanut Pork
+
+Primary Ingredients: Pork tenderloin, peanut butter, vegetables
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Brown pork. 2. Sauté vegetables. 3. Simmer in peanut broth."
+"Generate a fusion recipe based on this description: A seafood chowder combining spicy broth, shrimp, and poached eggs","Peru-Style Shrimp Chowder
+
+Primary Ingredients: Shrimp, potatoes, corn, tomatoes, eggs
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Cook vegetables. 2. Add shrimp. 3. Poach eggs in chowder."
+"Generate a fusion recipe based on this description: A Colombian dish featuring slow-cooked, tender flank steak","South American Stewed Flank Steak
+
+Primary Ingredients: Flank steak, onions, tomatoes, beef bouillon
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Brown steak. 2. Cook vegetables. 3. Simmer in broth until tender."
+Generate a fusion recipe based on this description: A South American take on potato salad with various vegetables and fruits,"Potato & Carrot Salad
+
+Primary Ingredients: Potatoes, carrots, peas, onions, apples, eggs
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Boil vegetables. 2. Dice ingredients. 3. Mix with mayonnaise."
+"Generate a fusion recipe based on this description: A Bolivian dish called Silpancho with layers of rice, beef, and vegetables","South American Layered Beef & Vegetables
+
+Primary Ingredients: Rice, potatoes, beef, eggs, onions, tomatoes
+
+Cooking Method: Fry, Layer
+
+Steps (Brief): 1. Cook rice and potatoes. 2. Prepare beef. 3. Fry eggs. 4. Layer ingredients."
+Generate a fusion recipe based on this description: A Peruvian sandwich known as Pan con Chicharron with braised pork and sweet potatoes,"Sweet Potato & Pork Sandwich
+
+Primary Ingredients: Pork chops, sweet potatoes, bread, salsa criolla
+
+Cooking Method: Braise, Fry
+
+Steps (Brief): 1. Braise pork. 2. Cook sweet potatoes. 3. Assemble sandwich."
+Generate a fusion recipe based on this description: A Peruvian-inspired dish of bell peppers stuffed with a flavorful meat mixture,"South American Stuffed Peppers
+
+Primary Ingredients: Bell peppers, ground beef, raisins, olives, cheese
+
+Cooking Method: Stuff, Bake
+
+Steps (Brief): 1. Prepare filling. 2. Blanch peppers. 3. Stuff and bake."
+Generate a fusion recipe based on this description: Colombian cheese fritters enjoyed particularly during Christmas,"Traditional Cheese Fritters
+
+Primary Ingredients: Cassava flour, corn starch, cheese, milk
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Mix dough. 2. Form balls. 3. Fry until golden."
+Generate a fusion recipe based on this description: A popular Brazilian blended drink made with fruit and sugar cane spirits,"South American Batida Drink
+
+Primary Ingredients: Cachaça, coconut milk, lime juice, passionfruit syrup
+
+Cooking Method: Blend
+
+Steps (Brief): 1. Combine ingredients. 2. Blend with ice. 3. Serve chilled."
+"Generate a fusion recipe based on this description: A hearty Brazilian stew known as Feijoada, commonly served with toasted cassava flour","Black Bean & Bacon Stew
+
+Primary Ingredients: Black beans, pork ribs, sausages, bacon, onions
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Soak beans. 2. Brown meats. 3. Stew with beans and vegetables."
+Generate a fusion recipe based on this description: A Peruvian dish called Papa a la Huancaína with boiled potatoes and spicy cheese sauce,"South American Potatoes in Cheese Sauce
+
+Primary Ingredients: Potatoes, spicy cheese sauce, eggs, olives
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Boil potatoes. 2. Prepare sauce. 3. Assemble and garnish."
+"Generate a fusion recipe based on this description: Peruvian marinated beef skewers, popular for summer barbecues","Anticuchos - Beef Skewers
+
+Primary Ingredients: Beef sirloin tips, chili paste, vinegar, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate beef. 2. Thread on skewers. 3. Grill until cooked."
+"Generate a fusion recipe based on this description: A traditional Peruvian dish combining poached chicken with a creamy, spicy sauce","South American Spicy Creamed Chicken
+
+Primary Ingredients: Chicken breast, aji peppers, potatoes, bread, milk
+
+Cooking Method: Poach, Blend
+
+Steps (Brief): 1. Poach chicken. 2. Prepare pepper sauce. 3. Combine and serve with potatoes."
+"Generate a fusion recipe based on this description: Ecuadorian fritters known as Bolón de Verde, made with plantains and cheese","Classic Fried Plantain Fritters
+
+Primary Ingredients: Green plantains, cheese, butter
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Cook plantains. 2. Mash with cheese. 3. Form balls and fry."
+Generate a fusion recipe based on this description: A non-alcoholic Peruvian drink made from purple corn and fruits,"South American Chicha Morada Cold Beverage
+
+Primary Ingredients: Purple corn, pineapple, apple, cinnamon, cloves
+
+Cooking Method: Boil, Chill
+
+Steps (Brief): 1. Boil corn with spices. 2. Strain and sweeten. 3. Add fruit and chill."
+Generate a fusion recipe based on this description: Peruvian-style fried rolls filled with beef and vegetables,"Beef & Vegetable Tequeños
+
+Primary Ingredients: Beef, vegetables, egg roll wrappers
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Prepare filling. 2. Fill wrappers. 3. Seal and fry."
+"Generate a fusion recipe based on this description: South American fried dough dessert, often drizzled with honey and cinnamon","Classic Sopapillas Doughnuts
+
+Primary Ingredients: Flour, yeast, butter, honey, cinnamon
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Prepare dough. 2. Cut into shapes. 3. Fry and coat with sugar."
+"Generate a fusion recipe based on this description: A popular custard dessert with a caramel top, common across South America","South American Flan
+
+Primary Ingredients: Eggs, milk, sugar, vanilla
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make caramel. 2. Prepare custard. 3. Bake in water bath."
+"Generate a fusion recipe based on this description: A budget-friendly dessert with coconut and spices, good for large groups","South American Coconut-Spice Pudding
+
+Primary Ingredients: Rice, coconut, milk, cinnamon, cloves
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Cook rice with spices. 2. Add milk and coconut. 3. Simmer until creamy."
+Generate a fusion recipe based on this description: An unusual cake made with cinnamon rolls and a raisin-walnut filling,"Traditional Raisin Cake
+
+Primary Ingredients: Cinnamon rolls, raisins, walnuts, apple juice
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare filling. 2. Layer cinnamon rolls and filling. 3. Bake."
+Generate a fusion recipe based on this description: Popular sandwich cookies filled with dulce de leche and rolled in coconut,"Alfajores - South American Caramel Cookies
+
+Primary Ingredients: Flour, cornstarch, dulce de leche, coconut
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make cookies. 2. Fill with dulce de leche. 3. Roll in coconut."
+Generate a fusion recipe based on this description: Traditional South African pancakes served with cinnamon sugar and lemon juice,"Pannekoek Pancakes
+
+Primary Ingredients: Flour, eggs, milk, cinnamon, sugar
+
+Cooking Method: Pan-fry
+
+Steps (Brief): 1. Make batter. 2. Fry thin pancakes. 3. Sprinkle with cinnamon sugar and lemon juice."
+Generate a fusion recipe based on this description: A South African take on the Middle Eastern egg dish,"South-African Style Shakshuka
+
+Primary Ingredients: Eggs, tomatoes, vegetables, spices
+
+Cooking Method: Simmer, Bake
+
+Steps (Brief): 1. Sauté vegetables. 2. Add tomatoes and spices. 3. Cook eggs in sauce."
+"Generate a fusion recipe based on this description: Crunchy, twice-baked bread similar to biscotti","Rusks
+
+Primary Ingredients: Flour, butter, sugar, bran, oats
+
+Cooking Method: Bake, Dry
+
+Steps (Brief): 1. Make dough. 2. Bake in pan. 3. Cut and dry in oven."
+Generate a fusion recipe based on this description: Savory breakfast muffins with traditional South African sausage,"South African Boerewors Breakfast Muffins
+
+Primary Ingredients: Flour, yeast, boerewors sausage
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make dough. 2. Add cooked sausage. 3. Bake in muffin tins."
+Generate a fusion recipe based on this description: A hearty stew made with South African dried meat,"Traditional Biltong Stew
+
+Primary Ingredients: Biltong (dried meat), onions, tomatoes, peanut butter
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Sauté vegetables. 2. Add biltong and peanut butter. 3. Simmer until thick."
+Generate a fusion recipe based on this description: A spiced minced meat dish with an egg-based topping,"South African Traditional Bobotie
+
+Primary Ingredients: Minced beef, bread, milk, eggs, spices
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Cook spiced meat. 2. Top with egg custard. 3. Bake until set."
+Generate a fusion recipe based on this description: Spice-marinated grilled chicken with South African flavors,"Marinated Grilled Chicken
+
+Primary Ingredients: Chicken, yogurt, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken. 2. Grill until cooked."
+Generate a fusion recipe based on this description: A popular South African street food sandwich,"South African Chicken Kota
+
+Primary Ingredients: Bread loaf, chicken, fries, cheese
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Cook ingredients. 2. Assemble in hollowed bread."
+Generate a fusion recipe based on this description: Eggplant stewed with traditional South African barbecue spices,"Braai Spiced Stewed Eggplant
+
+Primary Ingredients: Eggplant, braai spice, herbs
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Prepare eggplant. 2. Stew with spices and herbs."
+Generate a fusion recipe based on this description: A staple South African porridge made from maize,"South African Maize Porridge
+
+Primary Ingredients: Maize meal, water, salt, butter
+
+Cooking Method: Boil, Simmer
+
+Steps (Brief): 1. Boil water. 2. Add maize meal. 3. Simmer until thick."
+Generate a fusion recipe based on this description: A South African grilled cheese sandwich often served at barbecues,"Braaibroodjie
+
+Primary Ingredients: Bread, cheese, onions, tomatoes, chutney
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Assemble sandwich. 2. Grill until cheese melts."
+Generate a fusion recipe based on this description: A traditional South African stew cooked in a cast-iron pot,"South African Potjiekos
+
+Primary Ingredients: Meat, vegetables, stock, spices
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Brown meat. 2. Add vegetables and liquid. 3. Simmer slowly."
+Generate a fusion recipe based on this description: A tangy and spicy condiment,"Pickled Mango
+
+Primary Ingredients: Mango, vinegar, spices
+
+Cooking Method: Pickle
+
+Steps (Brief): 1. Prepare spice mixture. 2. Add mangoes. 3. Refrigerate to pickle."
+Generate a fusion recipe based on this description: A spicy vegetable relish,"South African Chakalaka
+
+Primary Ingredients: Vegetables, beans, spices
+
+Cooking Method: Sauté
+
+Steps (Brief): 1. Sauté vegetables. 2. Add spices and beans. 3. Simmer until done."
+Generate a fusion recipe based on this description: Spicy marinated chicken,"Piri Piri Chicken
+
+Primary Ingredients: Chicken, piri piri peppers, lemon
+
+Cooking Method: Marinate, Roast
+
+Steps (Brief): 1. Marinate chicken. 2. Roast in oven."
+"Generate a fusion recipe based on this description: A simple, hearty bean and peanut dish","South African Bean & Peanut Mutakura
+
+Primary Ingredients: Black-eyed peas, peanuts
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Soak beans and peanuts. 2. Boil until tender."
+"Generate a fusion recipe based on this description: Salmon flavored with South African spices, served with eggs","Spiced Salmon with Eggs
+
+Primary Ingredients: Salmon, eggs, spices
+
+Cooking Method: Pan-fry
+
+Steps (Brief): 1. Season salmon. 2. Pan-fry. 3. Serve with eggs and greens."
+Generate a fusion recipe based on this description: A fruit chutney with Cape Malay influences,"South African Apricot Blatjang
+
+Primary Ingredients: Dried fruits, onions, vinegar, spices
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Soak dried fruits. 2. Cook with spices and vinegar. 3. Simmer until thick."
+Generate a fusion recipe based on this description: A South African take on beef curry,"Beef Curry
+
+Primary Ingredients: Beef, curry powder, coconut
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Brown beef. 2. Add spices and coconut. 3. Simmer until tender."
+Generate a fusion recipe based on this description: An Ethiopian-inspired chicken stew popular in South Africa,"South African Onion Doro Wat
+
+Primary Ingredients: Chicken, onions, berbere spice
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Cook onions until paste-like. 2. Add spices and chicken. 3. Simmer until done."
+Generate a fusion recipe based on this description: A spicy South African take on French fries,"Spicy Fries
+
+Primary Ingredients: Frozen fries, bell peppers, spices
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Fry frozen fries. 2. Sauté peppers and spices. 3. Combine."
+"Generate a fusion recipe based on this description: A spicy, fermented porridge","South African Hausa Koko
+
+Primary Ingredients: Fermented millet or corn dough, spices
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Mix fermented dough with water. 2. Boil with spices. 3. Simmer until thick."
+Generate a fusion recipe based on this description: A vegetarian version of the spicy condiment,"Vegetarian Sambal
+
+Primary Ingredients: Carrots, apples, chilies, spices
+
+Cooking Method: Mix, Chill
+
+Steps (Brief): 1. Mix ingredients. 2. Chill to meld flavors."
+"Generate a fusion recipe based on this description: A popular Indian-style curry from Durban, South Africa","Durban Chicken Curry
+
+Primary Ingredients: Chicken, curry powder, potatoes
+
+Cooking Method: Curry
+
+Steps (Brief): 1. Fry spices. 2. Add chicken and vegetables. 3. Simmer until cooked."
+Generate a fusion recipe based on this description: A fragrant yellow rice dish with Cape Malay influences,"Cape Malay Yellow Rice
+
+Primary Ingredients: Rice, turmeric, raisins, cinnamon
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Combine ingredients. 2. Boil until rice is cooked."
+Generate a fusion recipe based on this description: Steamed dumplings often served with stews,"South African Madombi Dumplings
+
+Primary Ingredients: Flour, yeast, baking powder
+
+Cooking Method: Steam
+
+Steps (Brief): 1. Make dough. 2. Let rise. 3. Steam over stew."
+"Generate a fusion recipe based on this description: Crunchy, cinnamon-flavored cookies","Cinnamon Crunchies
+
+Primary Ingredients: Oats, coconut, cinnamon, butter
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Mix ingredients. 2. Press into pan. 3. Bake until golden."
+Generate a fusion recipe based on this description: A moist apple cake,"South African Apple Cake
+
+Primary Ingredients: Apples, flour, butter, eggs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare batter. 2. Fold in apples. 3. Bake until done."
+Generate a fusion recipe based on this description: A traditional South African custard tart,"Milk Tart
+
+Primary Ingredients: Milk, eggs, sugar, cinnamon
+
+Cooking Method: Bake (crust), Chill (filling)
+
+Steps (Brief): 1. Prepare crust. 2. Cook custard filling. 3. Chill to set."
+"Generate a fusion recipe based on this description: Small, sticky sponge cakes with a creamy sauce","South African Mini Malva Cakes
+
+Primary Ingredients: Flour, sugar, apricot jam, cream
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make cake batter. 2. Bake in muffin tins. 3. Pour over cream sauce."
+Generate a fusion recipe based on this description: Sweet breakfast muffins with fruit,"Banana – Blueberry Easter Muffins
+
+Primary Ingredients: Wheat bran, flour, bananas, blueberries
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Mix dry ingredients. 2. Mix wet ingredients. 3. Fold in blueberries. 4. Bake."
+Generate a fusion recipe based on this description: A sweet breakfast casserole,"Breakfast Berry Bake
+
+Primary Ingredients: French bread, berries, cream cheese, eggs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Layer bread, berries, and cream cheese. 2. Pour egg mixture over. 3. Bake."
+Generate a fusion recipe based on this description: A savory omelet with tuna and vegetables,"Easter Omelet with Tuna
+
+Primary Ingredients: Eggs, tuna, bell peppers, cream cheese
+
+Cooking Method: Pan-fry
+
+Steps (Brief): 1. Sauté vegetables. 2. Mix with tuna. 3. Cook omelet and fill."
+Generate a fusion recipe based on this description: A light breakfast salad with bacon,"Breakfast Bacon & Veggie Salad
+
+Primary Ingredients: Bacon, asparagus, spinach, arugula
+
+Cooking Method: Sauté, Assemble
+
+Steps (Brief): 1. Cook bacon and vegetables. 2. Assemble salad. 3. Dress and serve."
+Generate a fusion recipe based on this description: A healthy tropical yogurt bowl,"Tropical-Flavor Easter Yogurt
+
+Primary Ingredients: Greek yogurt, mango, coconut, matcha
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Mix matcha into yogurt. 2. Top with fruits and coconut."
+Generate a fusion recipe based on this description: Traditional baked ham with sweet glaze,"Baked Easter Ham
+
+Primary Ingredients: Smoked ham, brown sugar, Cognac
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Wrap ham and bake. 2. Glaze and continue baking."
+Generate a fusion recipe based on this description: Herb-crusted roasted lamb,"Rack of Lamb
+
+Primary Ingredients: Lamb rack, rosemary, thyme, garlic
+
+Cooking Method: Roast
+
+Steps (Brief): 1. Make herb paste. 2. Coat lamb. 3. Roast."
+Generate a fusion recipe based on this description: A crisp salad with fruit and nuts,"Walnut & Pear Salad
+
+Primary Ingredients: Walnuts, pears, celery, fennel, arugula
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Toast walnuts. 2. Prepare dressing. 3. Assemble salad."
+Generate a fusion recipe based on this description: A pizza-like dish with shrimp scampi flavors,"Shrimp Scampi-Style Flatbread
+
+Primary Ingredients: Shrimp, flatbread, mozzarella, garlic
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Cook shrimp. 2. Assemble flatbread. 3. Bake."
+Generate a fusion recipe based on this description: A quick skillet meal with Easter ham,"Ham & Asparagus Skillet
+
+Primary Ingredients: Ham, asparagus, pasta, tomatoes
+
+Cooking Method: Sauté
+
+Steps (Brief): 1. Cook pasta. 2. Sauté vegetables and ham. 3. Combine."
+Generate a fusion recipe based on this description: Sweet and sticky chicken dish,"Sesame Chicken
+
+Primary Ingredients: Chicken, honey, soy sauce, sesame seeds
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Cook chicken. 2. Make sauce. 3. Combine and garnish."
+Generate a fusion recipe based on this description: A fresh spring salad with homemade pesto,"Mint Pesto Pea Salad
+
+Primary Ingredients: Peas, mint, almonds, watercress
+
+Cooking Method: Blanch, Mix
+
+Steps (Brief): 1. Make pesto. 2. Cook peas. 3. Combine ingredients."
+Generate a fusion recipe based on this description: Zesty shrimp dish with cilantro and garlic,"Cilantro Garlic Shrimp
+
+Primary Ingredients: Shrimp, cilantro, garlic, lime
+
+Cooking Method: Sauté
+
+Steps (Brief): 1. Marinate shrimp. 2. Cook onions. 3. Cook shrimp."
+Generate a fusion recipe based on this description: Light chicken and couscous dish,"Lemony Chicken Couscous
+
+Primary Ingredients: Chicken, couscous, broccoli, lemon
+
+Cooking Method: Boil, Sauté
+
+Steps (Brief): 1. Cook couscous. 2. Cook chicken. 3. Combine."
+Generate a fusion recipe based on this description: Sweet and savory grilled pork chops,"Grilled Honey-Garlic Pork Chops
+
+Primary Ingredients: Pork chops, honey, soy sauce, garlic
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate pork. 2. Grill."
+Generate a fusion recipe based on this description: A tangy twist on classic potato salad,"Lemon Potato Salad
+
+Primary Ingredients: Potatoes, lemon, sour cream, chives
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Boil potatoes. 2. Make dressing. 3. Combine."
+Generate a fusion recipe based on this description: Creamy pasta dish with spring vegetables,"Asparagus Pasta
+
+Primary Ingredients: Pasta, asparagus, white wine, Parmesan
+
+Cooking Method: Boil, Sauté
+
+Steps (Brief): 1. Cook pasta. 2. Sauté asparagus. 3. Make sauce. 4. Combine."
+"Generate a fusion recipe based on this description: A crunchy, raw Brussels sprouts salad","Brussels Sprouts Salad
+
+Primary Ingredients: Brussels sprouts, almonds, pomegranate
+
+Cooking Method: Raw, Mix
+
+Steps (Brief): 1. Slice sprouts. 2. Make dressing. 3. Combine ingredients."
+Generate a fusion recipe based on this description: Creamy lemon chicken with spinach,"Lemon Chicken
+
+Primary Ingredients: Chicken, lemon, Parmesan, spinach
+
+Cooking Method: Pan-fry, Simmer
+
+Steps (Brief): 1. Dredge chicken. 2. Cook chicken. 3. Make sauce. 4. Combine."
+Generate a fusion recipe based on this description: A healthier alternative to beef burgers,"Turkey Burger
+
+Primary Ingredients: Ground turkey, garlic, parsley
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Mix burger ingredients. 2. Form patties. 3. Grill."
+Generate a fusion recipe based on this description: A one-pot Mediterranean chicken dish,"Spring Chicken Orzo
+
+Primary Ingredients: Chicken, orzo, olives, lemon
+
+Cooking Method: Pressure cook
+
+Steps (Brief): 1. Combine ingredients. 2. Pressure cook. 3. Add orzo and cook again."
+Generate a fusion recipe based on this description: A creamy vegetable pasta dish,"Ricotta Pepper Primavera
+
+Primary Ingredients: Ricotta, bell peppers, fettuccine
+
+Cooking Method: Sauté, Mix
+
+Steps (Brief): 1. Cook pasta. 2. Sauté vegetables. 3. Mix with ricotta sauce."
+Generate a fusion recipe based on this description: Simple baked fish with lemon and garlic,"Lemon Tilapia
+
+Primary Ingredients: Tilapia, lemon, butter, garlic
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Season fish. 2. Make butter sauce. 3. Bake."
+Generate a fusion recipe based on this description: Vegetarian tacos with mushrooms,"Mushrooms, Lime & Chili Tacos
+
+Primary Ingredients: Mushrooms, lime, chili, tortillas
+
+Cooking Method: Sauté
+
+Steps (Brief): 1. Sauté mushrooms and vegetables. 2. Season. 3. Assemble tacos."
+Generate a fusion recipe based on this description: Classic tuna melt sandwich,"Easy Tuna Melt
+
+Primary Ingredients: Tuna, cheese, bread
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make tuna salad. 2. Assemble sandwiches. 3. Bake."
+Generate a fusion recipe based on this description: Cute Easter-themed cookies,"Bunny Cookies
+
+Primary Ingredients: Sugar cookie dough, candy eggs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make cookie dough. 2. Cut and shape. 3. Bake."
+Generate a fusion recipe based on this description: Decorative butterfly-themed cupcakes,"Butterfly Cupcakes
+
+Primary Ingredients: Cupcakes, frosting, candy wings
+
+Cooking Method: Bake, Decorate
+
+Steps (Brief): 1. Bake cupcakes. 2. Make frosting. 3. Decorate."
+Generate a fusion recipe based on this description: Tangy lemon dessert bars,"Lemon Bars
+
+Primary Ingredients: Flour, butter, lemon juice, eggs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make crust. 2. Prepare filling. 3. Bake."
+Generate a fusion recipe based on this description: Soft cookie bars with candy eggs,"Easter ""Egg"" Blondie Bars
+
+Primary Ingredients: Flour, butter, M&M eggs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make batter. 2. Add candy. 3. Bake."
+Generate a fusion recipe based on this description: Traditional Easter carrot cake,"Carrot Cake
+
+Primary Ingredients: Carrots, flour, oil, cream cheese frosting
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make batter. 2. Bake cakes. 3. Frost and assemble."
+Generate a fusion recipe based on this description: A creamy breakfast porridge with cranberries,"Norway Cranberry Porridge
+
+Primary Ingredients: Rice, milk, cranberries, cinnamon
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Cook rice. 2. Add milk gradually. 3. Add flavorings. 4. Top with cranberries."
+"Generate a fusion recipe based on this description: Thin, crepe-like pancakes served with toppings","Scandinavian Fruit Pancakes
+
+Primary Ingredients: Flour, milk, eggs, butter
+
+Cooking Method: Pan-fry
+
+Steps (Brief): 1. Make batter. 2. Cook thin pancakes. 3. Serve with toppings."
+Generate a fusion recipe based on this description: Open-faced sandwich with salmon and scrambled eggs,"Salmon & Egg Breakfast Sandwich
+
+Primary Ingredients: Smoked salmon, eggs, rye bread
+
+Cooking Method: Scramble, Assemble
+
+Steps (Brief): 1. Scramble eggs. 2. Assemble sandwich with salmon."
+Generate a fusion recipe based on this description: Puffy pancakes baked in skillets with lemon curd,"Scandinavian Lemon Curd & Blueberry Pancakes
+
+Primary Ingredients: Flour, eggs, lemon curd, blueberries
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make batter. 2. Bake in skillets. 3. Top with lemon curd and blueberries."
+Generate a fusion recipe based on this description: Healthy breakfast buns with broccoli,"Broccoli Breakfast Buns
+
+Primary Ingredients: Broccoli, almonds, eggs, flour
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Process broccoli. 2. Mix with other ingredients. 3. Form and bake buns."
+"Generate a fusion recipe based on this description: Simple broiled cod dish known as ""torsk""","Classic Broiled Cod Fillets
+
+Primary Ingredients: Cod, butter, paprika
+
+Cooking Method: Broil
+
+Steps (Brief): 1. Boil cod briefly. 2. Brush with butter. 3. Broil until golden."
+Generate a fusion recipe based on this description: Rich and creamy seafood soup,"Scandinavian Seafood Bisque
+
+Primary Ingredients: Clams, shrimp, crab, cream
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Sauté vegetables. 2. Add seafood and broth. 3. Finish with cream."
+Generate a fusion recipe based on this description: Small savory tarts with chicken and asparagus,"Chicken & Asparagus Mini Tarts
+
+Primary Ingredients: Chicken, asparagus, puff pastry
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Cook chicken and asparagus. 2. Make sauce. 3. Fill pastry and bake."
+Generate a fusion recipe based on this description: Shrimp sandwiches with fresh dill and lemon,"Scandinavian Dill & Lemon Shrimp Sandwiches
+
+Primary Ingredients: Shrimp, dill, lemon, hoagie buns
+
+Cooking Method: Sauté, Assemble
+
+Steps (Brief): 1. Cook shrimp. 2. Make dressing. 3. Assemble sandwiches."
+Generate a fusion recipe based on this description: Creamy potato salad with herbs,"Traditional Nordic Potato Salad
+
+Primary Ingredients: Potatoes, sour cream, chives
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Boil potatoes. 2. Mix dressing. 3. Combine and chill."
+Generate a fusion recipe based on this description: Crisp slaw with pears and celery root,"Scandinavian Pear & Celery Root Slaw
+
+Primary Ingredients: Celery root, pears, cabbage
+
+Cooking Method: Raw, Mix
+
+Steps (Brief): 1. Shred vegetables. 2. Make dressing. 3. Combine and chill."
+Generate a fusion recipe based on this description: Traditional Danish liver pate,"Classic Liver Pate
+
+Primary Ingredients: Pork liver, pork fat, onions
+
+Cooking Method: Grind, Bake
+
+Steps (Brief): 1. Grind meat and onions. 2. Mix with spices. 3. Bake in trays."
+Generate a fusion recipe based on this description: Classic Swedish meatballs in gravy,"Scandinavian Meatballs
+
+Primary Ingredients: Ground beef, breadcrumbs, cream
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Form meatballs. 2. Fry meatballs. 3. Make gravy and simmer."
+Generate a fusion recipe based on this description: Cold buttermilk soup,"Buttermilk Soup
+
+Primary Ingredients: Buttermilk, yogurt, lemon
+
+Cooking Method: Mix, Chill
+
+Steps (Brief): 1. Mix ingredients. 2. Chill. 3. Serve cold."
+Generate a fusion recipe based on this description: Hearty meat pie with vegetables,"Scandinavian Meat Pie
+
+Primary Ingredients: Ground beef, potatoes, carrots
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make pastry. 2. Prepare filling. 3. Assemble and bake."
+Generate a fusion recipe based on this description: Rich pork stew with vegetables,"Traditional Pork Stew
+
+Primary Ingredients: Pork, sausages, mushrooms, cream
+
+Cooking Method: Stew
+
+Steps (Brief): 1. Brown meat. 2. Add vegetables. 3. Simmer with cream."
+Generate a fusion recipe based on this description: Delicate white fish with mushrooms,"Scandinavian White Fish with Butter & Mushrooms
+
+Primary Ingredients: White fish, mushrooms, butter
+
+Cooking Method: Pan-fry
+
+Steps (Brief): 1. Cook mushrooms. 2. Prepare fish. 3. Cook fish and combine."
+Generate a fusion recipe based on this description: Popular Finnish mixed drink,"Long Drink
+
+Primary Ingredients: Gin, grapefruit juice, club soda
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Combine ingredients. 2. Stir gently. 3. Serve over ice."
+Generate a fusion recipe based on this description: Creamy pumpkin soup with Italian cheese,"Scandinavian Parmigiano-Reggiano Pumpkin Soup
+
+Primary Ingredients: Pumpkin, Parmigiano-Reggiano, cream
+
+Cooking Method: Roast, Simmer
+
+Steps (Brief): 1. Roast pumpkin. 2. Make soup base. 3. Blend and add cheese."
+Generate a fusion recipe based on this description: Pasta salad with curry flavors,"Classic Curry Pasta
+
+Primary Ingredients: Pasta, curry powder, sour cream
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Cook pasta. 2. Make curry dressing. 3. Combine and chill."
+Generate a fusion recipe based on this description: Traditional pickled herring with citrus,"Scandinavian Pickled Herring & Orange
+
+Primary Ingredients: Herring, oranges, spices
+
+Cooking Method: Pickle, Assemble
+
+Steps (Brief): 1. Pickle herring. 2. Prepare orange. 3. Assemble on bread."
+Generate a fusion recipe based on this description: Savory meat pies popular in Scandinavia,"Cornish Meat Pasties
+
+Primary Ingredients: Ground beef, potatoes, pastry
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Make pastry. 2. Prepare filling. 3. Assemble and bake."
+Generate a fusion recipe based on this description: Creamy spinach dish with egg yolks,"Scandinavian Egg Yolks in Spinach
+
+Primary Ingredients: Spinach, egg yolks, cream
+
+Cooking Method: Sauté, Purée
+
+Steps (Brief): 1. Cook spinach. 2. Purée with cream. 3. Top with egg yolks."
+Generate a fusion recipe based on this description: Crispy baked potatoes with cheese,"Swedish Seasoned Potatoes
+
+Primary Ingredients: Potatoes, cheese, breadcrumbs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Slice potatoes. 2. Season and bake. 3. Top with cheese and breadcrumbs."
+Generate a fusion recipe based on this description: Fresh cucumber salad with herbs,"Scandinavian Cucumber Salad
+
+Primary Ingredients: Cucumbers, dill, lemon juice
+
+Cooking Method: Raw, Marinate
+
+Steps (Brief): 1. Slice cucumbers. 2. Marinate with salt and lemon. 3. Add herbs."
+Generate a fusion recipe based on this description: Gooey chocolate cake,"Chocolate Kladdkaka Sticky Cake
+
+Primary Ingredients: Flour, butter, cocoa, eggs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Mix ingredients. 2. Bake until edges are set. 3. Serve warm."
+Generate a fusion recipe based on this description: Creamy rice pudding with cranberry sauce,"Scandinavian Cranberry Rice Pudding
+
+Primary Ingredients: Rice, milk, cranberries, cardamom
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Cook rice pudding. 2. Make cranberry sauce. 3. Combine to serve."
+Generate a fusion recipe based on this description: Rich brownies with cardamom flavor,"Cardamom Brownies
+
+Primary Ingredients: Chocolate, butter, cardamom
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Mix batter. 2. Add cardamom. 3. Bake and cut into squares."
+Generate a fusion recipe based on this description: Chilled berry pudding,"Scandinavian Red Berry Pudding
+
+Primary Ingredients: Red currants or berries, sugar, cornstarch
+
+Cooking Method: Simmer, Chill
+
+Steps (Brief): 1. Cook berries. 2. Strain and thicken. 3. Chill and serve."
+"Generate a fusion recipe based on this description: Delicate, crisp fried cookies","Rosette Cookies
+
+Primary Ingredients: Flour, eggs, milk
+
+Cooking Method: Deep-fry
+
+Steps (Brief): 1. Make batter. 2. Fry using rosette iron. 3. Dust with sugar."
+Generate a fusion recipe based on this description: Crunchy salad with ramen noodles,"Fusion Ramen Cabbage Salad
+
+Primary Ingredients: Ramen noodles, cabbage, almonds
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Toast noodles and almonds. 2. Make dressing. 3. Combine ingredients."
+Generate a fusion recipe based on this description: Vegetarian version of Spanish paella,"Vegetable Paella
+
+Primary Ingredients: Rice, mixed vegetables, spices
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Sauté vegetables. 2. Add rice and stock. 3. Simmer until cooked."
+Generate a fusion recipe based on this description: Crispy pancakes with kimchi and cheese,"Kimchi Cheesy Potato Pancakes
+
+Primary Ingredients: Potatoes, kimchi, cheese
+
+Cooking Method: Pan-fry
+
+Steps (Brief): 1. Mix ingredients. 2. Form pancakes. 3. Pan-fry until crispy."
+Generate a fusion recipe based on this description: Guacamole with Japanese flavors,"Fusion Japanese Guacamole
+
+Primary Ingredients: Avocados, wasabi, shiso leaves
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Mash avocados. 2. Add Japanese ingredients. 3. Mix and serve."
+Generate a fusion recipe based on this description: Fish tacos with Japanese flavors,"Japanese Fish Hard-Shell Tacos
+
+Primary Ingredients: Tuna, ponzu sauce, tortillas
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Marinate fish. 2. Grill fish. 3. Assemble tacos."
+Generate a fusion recipe based on this description: Hummus with Thai flavors,"Thai Basil Hummus
+
+Primary Ingredients: Chickpeas, Thai basil, coconut milk
+
+Cooking Method: Blend
+
+Steps (Brief): 1. Cook garlic. 2. Blend all ingredients. 3. Serve with dippers."
+Generate a fusion recipe based on this description: Pasta dish with Asian-style beef,"Beef & Chili Sauce Pasta
+
+Primary Ingredients: Beef, pasta, Asian chili sauce
+
+Cooking Method: Stir-fry, Boil
+
+Steps (Brief): 1. Cook pasta. 2. Stir-fry beef and vegetables. 3. Combine with sauce."
+Generate a fusion recipe based on this description: Potato salad with Korean flavors,"Korean-American Fusion Potato Salad
+
+Primary Ingredients: Potatoes, Korean pepper paste, mayo
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Cook potatoes. 2. Make Korean mayo. 3. Mix ingredients."
+Generate a fusion recipe based on this description: Rice dressing with Thai sausage,"Thai Sausage with Rice Dressing
+
+Primary Ingredients: Thai sausage, rice, herbs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Cook rice. 2. Prepare sausage mixture. 3. Bake together."
+Generate a fusion recipe based on this description: Lasagna rolls wrapped in tortillas,"Fusion Lasagna Roll Burritos
+
+Primary Ingredients: Lasagna noodles, ground beef, tortillas
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare fillings. 2. Roll lasagna. 3. Wrap in tortillas and bake."
+Generate a fusion recipe based on this description: Mashed potatoes with Japanese flavors,"Mashed Potatoes with Wasabi
+
+Primary Ingredients: Potatoes, wasabi, soy sauce
+
+Cooking Method: Boil, Mash
+
+Steps (Brief): 1. Boil potatoes. 2. Mash with wasabi and other ingredients."
+Generate a fusion recipe based on this description: Sloppy joes with Korean bulgogi flavors,"Bulgogi Fusion Sloppy Joe
+
+Primary Ingredients: Ground beef, bulgogi sauce, buns
+
+Cooking Method: Simmer, Assemble
+
+Steps (Brief): 1. Cook beef. 2. Add bulgogi sauce. 3. Serve on buns."
+Generate a fusion recipe based on this description: Roasted squash with Mexican and Middle Eastern toppings,"Roasted Squash with Pomegranate & Pepitas
+
+Primary Ingredients: Squash, pomegranate seeds, pepitas
+
+Cooking Method: Roast
+
+Steps (Brief): 1. Roast squash. 2. Toast pepitas. 3. Top with seeds."
+Generate a fusion recipe based on this description: Vietnamese pho flavors in a burrito,"Pho Fusion Burritos
+
+Primary Ingredients: Rice noodles, beef, tortillas
+
+Cooking Method: Simmer, Assemble
+
+Steps (Brief): 1. Prepare pho components. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Fajita flavors with pasta,"Chicken Fajita Pasta
+
+Primary Ingredients: Chicken, bell peppers, pasta
+
+Cooking Method: Pressure Cook
+
+Steps (Brief): 1. Cook chicken and vegetables. 2. Add pasta and cook. 3. Add cheese."
+Generate a fusion recipe based on this description: Pad Thai flavors with quinoa instead of rice noodles,"Quinoa Fusion Pad Thai Bowl
+
+Primary Ingredients: Quinoa, chicken, pad Thai sauce
+
+Cooking Method: Simmer, Stir-fry
+
+Steps (Brief): 1. Cook quinoa. 2. Stir-fry ingredients. 3. Combine with sauce."
+Generate a fusion recipe based on this description: Spanish meatballs with Italian pasta,"Pressure Cooker Albondigas & Pasta
+
+Primary Ingredients: Meatballs, pasta, tomato sauce
+
+Cooking Method: Pressure Cook
+
+Steps (Brief): 1. Form meatballs. 2. Cook pasta and meatballs together."
+Generate a fusion recipe based on this description: Spam sushi roll,"Fusion Spam & Rice Musubi
+
+Primary Ingredients: Spam, rice, nori
+
+Cooking Method: Cook, Assemble
+
+Steps (Brief): 1. Cook rice. 2. Fry Spam. 3. Assemble musubi."
+Generate a fusion recipe based on this description: Vegetable dumplings cooked in an air fryer,"Air Fryer Veggie Momos
+
+Primary Ingredients: Vegetables, wonton wrappers
+
+Cooking Method: Air Fry
+
+Steps (Brief): 1. Prepare filling. 2. Wrap dumplings. 3. Air fry."
+Generate a fusion recipe based on this description: Quesadillas with Japanese-inspired filling,"Mexican-Japanese Fusion Quesadillas
+
+Primary Ingredients: Tortillas, cheese, soy sauce marinade
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken. 2. Assemble quesadillas. 3. Grill."
+Generate a fusion recipe based on this description: Indian-spiced egg scramble in frittata form,"Bhurji Frittata
+
+Primary Ingredients: Eggs, Indian spices, frittata style
+
+Cooking Method: Pressure Cook
+
+Steps (Brief): 1. Sauté vegetables. 2. Add eggs and spices. 3. Cook in pressure cooker."
+Generate a fusion recipe based on this description: Korean-flavored chicken in a burrito,"Chicken Korean Fusion Burritos
+
+Primary Ingredients: Chicken, kimchi, tortillas
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare chicken. 2. Assemble burrito with kimchi."
+Generate a fusion recipe based on this description: Indian pancake with Italian cheese,"Italian Cheese & Indian Uttappam
+
+Primary Ingredients: Uttappam batter, Parmesan cheese
+
+Cooking Method: Griddle
+
+Steps (Brief): 1. Make uttappam batter. 2. Cook with Parmesan topping."
+Generate a fusion recipe based on this description: Ravioli-style dumplings with Mexican filling,"Mexican Sausage Ravioli Wonton
+
+Primary Ingredients: Chorizo, ricotta, wonton wrappers
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Prepare filling. 2. Wrap in wontons. 3. Boil."
+Generate a fusion recipe based on this description: Stir-fried noodles in a sandwich,"Schezwan Veggie Noodle Sandwich
+
+Primary Ingredients: Noodles, vegetables, Schezwan sauce
+
+Cooking Method: Stir-fry, Assemble
+
+Steps (Brief): 1. Stir-fry noodles and veggies. 2. Assemble in sandwich."
+Generate a fusion recipe based on this description: Cobb salad with Middle Eastern elements,"Falafel Fusion Chicken Cob Salad
+
+Primary Ingredients: Falafel, chicken, salad ingredients
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry falafel. 2. Prepare salad components. 3. Assemble."
+Generate a fusion recipe based on this description: Indian dosa filled with Indo-Chinese flavors,"Paneer Spicy Chili Dosa
+
+Primary Ingredients: Dosa, paneer, chili sauce
+
+Cooking Method: Griddle
+
+Steps (Brief): 1. Make dosa. 2. Prepare spicy paneer filling. 3. Assemble."
+Generate a fusion recipe based on this description: Teriyaki chicken in taco-shaped wontons,"Chicken Teriyaki Wonton Tacos
+
+Primary Ingredients: Chicken, teriyaki sauce, wonton wrappers
+
+Cooking Method: Bake, Assemble
+
+Steps (Brief): 1. Cook chicken. 2. Shape and bake wontons. 3. Assemble tacos."
+Generate a fusion recipe based on this description: Pasta tossed with Indian chutney,"Indian-Italian Chutney Pasta
+
+Primary Ingredients: Pasta, mint-coriander chutney
+
+Cooking Method: Boil, Sauté
+
+Steps (Brief): 1. Cook pasta. 2. Make chutney. 3. Combine."
+Generate a fusion recipe based on this description: Burgers with Indian tandoori flavors,"Chicken Tandoori Burgers
+
+Primary Ingredients: Ground chicken, tandoori spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken. 2. Form patties. 3. Grill or bake."
+Generate a fusion recipe based on this description: Spicy green ramen with Indian flavors,"Hariyali Ramen Noodles
+
+Primary Ingredients: Ramen, greens, spices
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Boil ramen. 2. Stir-fry with greens and spices. 3. Serve."
+Generate a fusion recipe based on this description: Vegan bhel with tofu and peanuts,"Tofu Peanut Bhel
+
+Primary Ingredients: Tofu, peanuts, puffed rice
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Toast peanuts. 2. Mix with tofu, spices, and puffed rice."
+Generate a fusion recipe based on this description: Mushrooms stuffed with tandoori goat cheese,"Tandoori Goat Cheese Stuffed Mushrooms
+
+Primary Ingredients: Goat cheese, mushrooms, spices
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare tandoori spice mix. 2. Stuff mushrooms. 3. Bake until golden."
+Generate a fusion recipe based on this description: Creamy scalloped potatoes with Indian masala,"Masala Scalloped Potatoes
+
+Primary Ingredients: Potatoes, cream, Indian spices
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Layer potatoes and masala cream. 2. Bake until tender."
+Generate a fusion recipe based on this description: Tacos filled with Indian spiced keema,"Keema Tacos
+
+Primary Ingredients: Ground meat, spices, tortillas
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Cook spiced keema. 2. Assemble in tortillas. 3. Serve with chutney."
+Generate a fusion recipe based on this description: Indian dessert fusion of banana bread and ras malai,"Banana Bread Ras Malai Mousse
+
+Primary Ingredients: Bananas, cream, ras malai flavors
+
+Cooking Method: Mix, Chill
+
+Steps (Brief): 1. Prepare banana bread mix. 2. Add ras malai flavors. 3. Chill and serve."
+Generate a fusion recipe based on this description: Italian pasta with creamy masala sauce,"Creamy Masala Pasta
+
+Primary Ingredients: Pasta, masala, cream
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Cook pasta. 2. Prepare masala sauce. 3. Combine and serve."
+Generate a fusion recipe based on this description: Indian aloo paratha meets quesadilla,"Aloo Paratha Quesadilla
+
+Primary Ingredients: Tortillas, potatoes, cheese
+
+Cooking Method: Pan-fry
+
+Steps (Brief): 1. Prepare potato filling. 2. Assemble in tortillas. 3. Pan-fry until crispy."
+Generate a fusion recipe based on this description: Chaat with Mexican street corn flavors,"Mexican Street Corn Chaat
+
+Primary Ingredients: Corn, spices, lime
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Roast corn. 2. Mix with chaat masala, lime, and spices."
+Generate a fusion recipe based on this description: Creamy dip based on pav bhaji flavors,"Pav Bhaji Dip
+
+Primary Ingredients: Pav bhaji mix, cream cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare pav bhaji. 2. Mix with cream cheese. 3. Bake until bubbly."
+Generate a fusion recipe based on this description: Grilled paneer in taco shells with Indian spices,"Paneer Tacos
+
+Primary Ingredients: Paneer, tortillas, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill paneer with spices. 2. Assemble in tortillas with salsa."
+Generate a fusion recipe based on this description: Grilled cheese sandwich with Bombay chutney,"Bombay Grilled Cheese
+
+Primary Ingredients: Bread, cheese, chutney
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Spread chutney on bread. 2. Add cheese. 3. Grill until golden."
+Generate a fusion recipe based on this description: Pizza with naan as the base,"Naan Pizza
+
+Primary Ingredients: Naan, cheese, toppings
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare naan base. 2. Add toppings. 3. Bake until cheese is melted."
+Generate a fusion recipe based on this description: Light mousse infused with ras malai flavors,"Ras Malai Mousse
+
+Primary Ingredients: Ras malai, cream, spices
+
+Cooking Method: Chill
+
+Steps (Brief): 1. Prepare mousse. 2. Add ras malai elements. 3. Chill and serve."
+Generate a fusion recipe based on this description: A blend of kulfi and Italian tiramisu,"Kulfi Tiramisu
+
+Primary Ingredients: Kulfi, mascarpone, coffee
+
+Cooking Method: Layer, Chill
+
+Steps (Brief): 1. Prepare layers with kulfi and mascarpone. 2. Chill before serving."
+Generate a fusion recipe based on this description: Indian-inspired paneer tikka in quesadilla form,"Hariyali Paneer Tikka Quesadilla
+
+Primary Ingredients: Paneer, tortillas, cilantro, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate paneer. 2. Cook in quesadilla. 3. Serve with chutney."
+Generate a fusion recipe based on this description: Avocado toast with a twist of Indian spices,"Avocado Toast with Indian Spices
+
+Primary Ingredients: Avocado, toast, Indian spices
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Mash avocado with spices. 2. Spread on toast."
+Generate a fusion recipe based on this description: Mango salsa with a spicy Indian kick,"Mango Salsa
+
+Primary Ingredients: Mango, onion, cilantro, lime
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Chop ingredients. 2. Mix together. 3. Serve with chips or as a topping."
+Generate a fusion recipe based on this description: Dhokla layered with cream cheese and chutney,"Dhokla Sandwich Bites
+
+Primary Ingredients: Dhokla, chutney, cream cheese
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare dhokla. 2. Layer with chutney and cheese. 3. Cut into bites."
+Generate a fusion recipe based on this description: Tacos with tandoori spiced cauliflower,"Tandoori Cauliflower Tacos
+
+Primary Ingredients: Cauliflower, tortillas, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Marinate cauliflower. 2. Grill and serve in tortillas."
+Generate a fusion recipe based on this description: Enchiladas filled with Indian-spiced rajma,"Rajma Veggie Enchiladas
+
+Primary Ingredients: Rajma, tortillas, cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare rajma filling. 2. Roll in tortillas. 3. Bake with cheese."
+Generate a fusion recipe based on this description: Donuts inspired by the classic jalebi,"Jalebi Donuts
+
+Primary Ingredients: Jalebi batter, sugar, flour
+
+Cooking Method: Fry, Glaze
+
+Steps (Brief): 1. Prepare donut batter. 2. Fry and glaze with sugar syrup."
+Generate a fusion recipe based on this description: Couscous salad with Indian spices,"Indian Spiced Couscous Salad
+
+Primary Ingredients: Couscous, vegetables, spices
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Cook couscous. 2. Mix with vegetables and spices."
+Generate a fusion recipe based on this description: Wraps filled with Indian-style chana masala,"Chana Masala Wraps
+
+Primary Ingredients: Chana masala, wraps, lettuce
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Cook chana masala. 2. Assemble wraps with lettuce and filling."
+Generate a fusion recipe based on this description: Hummus with a spicy Indian masala twist,"Masala Hummus
+
+Primary Ingredients: Chickpeas, masala, tahini
+
+Cooking Method: Blend
+
+Steps (Brief): 1. Blend chickpeas with spices and tahini. Serve with bread or veggies."
+Generate a fusion recipe based on this description: Grilled eggplant rolls with cheese and Indian spices,"Indian Spiced Eggplant Rolls
+
+Primary Ingredients: Eggplant, cheese, spices
+
+Cooking Method: Grill, Roll
+
+Steps (Brief): 1. Grill eggplant. 2. Roll with cheese and spices. Serve."
+Generate a fusion recipe based on this description: Naan pizza with butter chicken toppings,"Butter Chicken Pizza
+
+Primary Ingredients: Naan, butter chicken, cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare butter chicken. 2. Assemble on naan. 3. Bake until cheese melts."
+Generate a fusion recipe based on this description: Pie filled with classic samosa stuffing,"Samosa Pie
+
+Primary Ingredients: Potatoes, peas, pastry
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare potato filling. 2. Fill pastry. 3. Bake until golden."
+Generate a fusion recipe based on this description: Indian spiced lentils served in tacos,"Spiced Lentil Tacos
+
+Primary Ingredients: Lentils, tortillas, spices
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Cook lentils with spices. 2. Serve in tortillas with toppings."
+Generate a fusion recipe based on this description: Grilled cheese sandwich with pav bhaji stuffing,"Pav Bhaji Grilled Cheese
+
+Primary Ingredients: Pav bhaji, bread, cheese
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Prepare pav bhaji. 2. Assemble sandwich with cheese. 3. Grill and serve."
+Generate a fusion recipe based on this description: Classic mac and cheese with Indian masala twist,"Masala Mac and Cheese
+
+Primary Ingredients: Macaroni, cheese, spices
+
+Cooking Method: Boil, Bake
+
+Steps (Brief): 1. Cook macaroni. 2. Make masala cheese sauce. 3. Combine and bake."
+Generate a fusion recipe based on this description: Tacos filled with paneer tikka,"Paneer Tikka Tacos
+
+Primary Ingredients: Paneer, tortillas, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Marinate paneer. 2. Grill and assemble in tortillas."
+Generate a fusion recipe based on this description: Quesadillas with Indian spices,"Spicy Quesadillas
+
+Primary Ingredients: Tortillas, cheese, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Stuff tortillas with spiced cheese. 2. Grill until crispy."
+Generate a fusion recipe based on this description: Bhel with a Mexican twist,"Mexican Bhel
+
+Primary Ingredients: Puffed rice, beans, salsa
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Mix puffed rice with beans, salsa, and spices."
+Generate a fusion recipe based on this description: Fusion of butter chicken and lasagna,"Butter Chicken Lasagna
+
+Primary Ingredients: Butter chicken, lasagna sheets
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Layer butter chicken and lasagna sheets. 2. Bake."
+Generate a fusion recipe based on this description: Pizza with tandoori chicken topping,"Tandoori Chicken Pizza
+
+Primary Ingredients: Naan, chicken, cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Spread sauce on naan. 2. Add toppings and bake."
+Generate a fusion recipe based on this description: Samosa filling in wraps,"Samosa Wraps
+
+Primary Ingredients: Potatoes, peas, wraps
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare filling. 2. Wrap and serve."
+Generate a fusion recipe based on this description: Spicy mango salsa,"Mango Salsa
+
+Primary Ingredients: Mango, cilantro, lime
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Mix chopped mango, lime, and spices."
+Generate a fusion recipe based on this description: Pav bhaji served in slider buns,"Pav Bhaji Sliders
+
+Primary Ingredients: Pav bhaji mix, slider buns
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Make pav bhaji. 2. Assemble in slider buns."
+Generate a fusion recipe based on this description: Spaghetti with tikka masala sauce,"Tikka Masala Spaghetti
+
+Primary Ingredients: Spaghetti, tikka masala sauce
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Cook spaghetti. 2. Add tikka masala sauce."
+Generate a fusion recipe based on this description: Indo-Chinese Gobi Manchurian in tacos,"Gobi Manchurian Tacos
+
+Primary Ingredients: Cauliflower, tortillas, spices
+
+Cooking Method: Stir-fry, Assemble
+
+Steps (Brief): 1. Fry cauliflower. 2. Assemble in tortillas with sauces."
+Generate a fusion recipe based on this description: Grilled cheese sandwich with Indian spices,"Masala Grilled Cheese
+
+Primary Ingredients: Bread, cheese, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Add spiced cheese to bread. 2. Grill until golden."
+Generate a fusion recipe based on this description: Pancakes with chai spices,"Chai-Spiced Pancakes
+
+Primary Ingredients: Pancake mix, chai spices
+
+Cooking Method: Mix, Fry
+
+Steps (Brief): 1. Add chai spices to batter. 2. Fry pancakes."
+Generate a fusion recipe based on this description: Hummus with Indian spices,"Indian-Spiced Hummus
+
+Primary Ingredients: Chickpeas, tahini, masala
+
+Cooking Method: Blend
+
+Steps (Brief): 1. Blend chickpeas with spices and tahini."
+Generate a fusion recipe based on this description: Kachori filling on tostadas,"Kachori Tostadas
+
+Primary Ingredients: Kachori filling, tortillas
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Prepare filling. 2. Fry tortillas. 3. Assemble."
+Generate a fusion recipe based on this description: Wraps filled with curried chickpeas,"Curried Chickpea Wraps
+
+Primary Ingredients: Chickpeas, wraps, spices
+
+Cooking Method: Boil, Assemble
+
+Steps (Brief): 1. Cook chickpeas with spices. 2. Assemble in wraps."
+Generate a fusion recipe based on this description: Burritos filled with tandoori chicken and rice,"Tandoori Chicken Burritos
+
+Primary Ingredients: Chicken, rice, tortillas
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill tandoori chicken. 2. Assemble in tortillas with rice."
+Generate a fusion recipe based on this description: French toast with ras malai flavors,"Ras Malai French Toast
+
+Primary Ingredients: Bread, ras malai, eggs
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Dip bread in egg mix. 2. Fry and serve with ras malai sauce."
+Generate a fusion recipe based on this description: Quesadillas with palak paneer filling,"Palak Paneer Quesadillas
+
+Primary Ingredients: Palak paneer, tortillas, cheese
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Prepare palak paneer. 2. Grill in tortillas with cheese."
+Generate a fusion recipe based on this description: Doughnuts flavored with Indian spices,"Cardamom Spiced Doughnuts
+
+Primary Ingredients: Doughnut batter, cardamom
+
+Cooking Method: Fry, Glaze
+
+Steps (Brief): 1. Prepare batter. 2. Fry and glaze with cardamom sugar."
+Generate a fusion recipe based on this description: Indian spiced paneer in tacos,"Paneer Bhurji Tacos
+
+Primary Ingredients: Paneer bhurji, tortillas, salsa
+
+Cooking Method: Stir-fry, Assemble
+
+Steps (Brief): 1. Cook paneer bhurji. 2. Assemble in tortillas with salsa."
+Generate a fusion recipe based on this description: Ice cream with mango lassi flavors,"Mango Lassi Ice Cream
+
+Primary Ingredients: Mango, yogurt, cream
+
+Cooking Method: Blend, Freeze
+
+Steps (Brief): 1. Blend ingredients. 2. Freeze until set."
+Generate a fusion recipe based on this description: Savory waffles made with masala omelette batter,"Masala Omelette Waffles
+
+Primary Ingredients: Eggs, spices, vegetables
+
+Cooking Method: Waffle Iron
+
+Steps (Brief): 1. Prepare omelette batter. 2. Cook in waffle iron."
+Generate a fusion recipe based on this description: Poutine topped with butter chicken,"Butter Chicken Poutine
+
+Primary Ingredients: Fries, butter chicken, cheese
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare fries. 2. Top with butter chicken and cheese."
+Generate a fusion recipe based on this description: Lentil patties with Indian spices in burgers,"Spiced Lentil Burgers
+
+Primary Ingredients: Lentils, spices, burger buns
+
+Cooking Method: Boil, Grill
+
+Steps (Brief): 1. Cook lentils with spices. 2. Grill patties and serve in buns."
+Generate a fusion recipe based on this description: Parfait with layers of kheer and fruit,"Kheer Parfait
+
+Primary Ingredients: Rice pudding, fruit, cream
+
+Cooking Method: Layer
+
+Steps (Brief): 1. Layer kheer with fruit and cream. 2. Chill and serve."
+Generate a fusion recipe based on this description: Tacos filled with spiced potatoes and cauliflower,"Aloo Gobi Tacos
+
+Primary Ingredients: Potatoes, cauliflower, tortillas
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Cook potatoes and cauliflower with spices. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Naan pizza topped with pav bhaji,"Pav Bhaji Pizza
+
+Primary Ingredients: Naan, pav bhaji, cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare pav bhaji. 2. Top naan with pav bhaji and cheese. 3. Bake."
+Generate a fusion recipe based on this description: French fries tossed with Indian masala,"Masala Fries
+
+Primary Ingredients: Fries, masala, chutney
+
+Cooking Method: Fry, Toss
+
+Steps (Brief): 1. Fry fries. 2. Toss with masala and chutney."
+"Generate a fusion recipe based on this description: Spiced lentil, nut, and vegetable roast","Amazing Nut Roast
+
+Primary Ingredients: Lentils, nuts, vegetables
+
+Cooking Method: Roast
+
+Steps (Brief): 1. Mix lentils and nuts. 2. Roast with spices and vegetables."
+Generate a fusion recipe based on this description: Indian spiced chicken Balti in pie form,"Chicken Balti Pie
+
+Primary Ingredients: Chicken, pie crust, spices
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Cook chicken Balti. 2. Fill crust and bake."
+Generate a fusion recipe based on this description: Fried chicken pops with Indian spices,"Chicken Pops
+
+Primary Ingredients: Chicken, batter, spices
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Marinate chicken. 2. Batter and fry."
+Generate a fusion recipe based on this description: Marinated chicken skewers with Indian flavors,"Chicken Shashlik
+
+Primary Ingredients: Chicken, skewers, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken. 2. Grill on skewers."
+Generate a fusion recipe based on this description: Bread filled with chilli and tomato pickle,"Chilli and Tomato Achaari Bread
+
+Primary Ingredients: Chilli, tomato, bread dough
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare dough. 2. Fill with achaari spices. 3. Bake."
+Generate a fusion recipe based on this description: Indian-style mushroom and garlic soup,"Garlic and Mushroom Shorba
+
+Primary Ingredients: Garlic, mushroom, broth
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Sauté mushrooms. 2. Add broth and simmer."
+Generate a fusion recipe based on this description: Nachos with Indian-style toppings,"Indian Style Loaded Nachos
+
+Primary Ingredients: Tortilla chips, cheese, spices
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Assemble nachos with Indian toppings. 2. Bake until cheese melts."
+Generate a fusion recipe based on this description: Spicy Indo-Chinese style ribs,"Indo-Chinese Ribs
+
+Primary Ingredients: Pork ribs, Chinese sauces, spices
+
+Cooking Method: Roast
+
+Steps (Brief): 1. Marinate ribs. 2. Roast with sauces and spices."
+Generate a fusion recipe based on this description: Fiery jerk chicken with Indian influences,"Jamaican Jerk Chicken
+
+Primary Ingredients: Chicken, jerk seasoning, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken in jerk spices. 2. Grill until cooked."
+Generate a fusion recipe based on this description: Caribbean meat pie with Indian flavors,"Jamaican Meat Pattie
+
+Primary Ingredients: Ground meat, pie crust, spices
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare meat filling. 2. Fill pie crust and bake."
+Generate a fusion recipe based on this description: Shepherd's pie with Indian spiced keema,"Keema Pie
+
+Primary Ingredients: Ground meat, mashed potatoes
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Cook keema. 2. Layer with mashed potatoes and bake."
+Generate a fusion recipe based on this description: Creamed potatoes with Indian spices,"Masala Mashed Potato
+
+Primary Ingredients: Potatoes, cream, masala spices
+
+Cooking Method: Boil, Mash
+
+Steps (Brief): 1. Boil and mash potatoes. 2. Mix with masala spices."
+Generate a fusion recipe based on this description: Toasted sandwiches with pav bhaji filling,"Pav Bhaji Toasties
+
+Primary Ingredients: Pav bhaji mix, bread, cheese
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Prepare pav bhaji. 2. Assemble in toasties and grill."
+Generate a fusion recipe based on this description: Grilled paneer tacos with Indian spices,"Paneer Tacos
+
+Primary Ingredients: Paneer, tortillas, salsa
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill paneer. 2. Assemble in tortillas with salsa."
+Generate a fusion recipe based on this description: Tacos with spiced lamb filling,"Spiced Lamb Tacos
+
+Primary Ingredients: Lamb, tortillas, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Marinate lamb. 2. Grill and serve in tortillas."
+Generate a fusion recipe based on this description: Sliders with tandoori chicken,"Tandoori Chicken Sliders
+
+Primary Ingredients: Chicken, slider buns, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill tandoori chicken. 2. Assemble in slider buns."
+Generate a fusion recipe based on this description: Cauliflower cooked with shawarma spices,"Cauliflower Shawarma
+
+Primary Ingredients: Cauliflower, shawarma spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate cauliflower. 2. Grill until charred."
+Generate a fusion recipe based on this description: Poutine topped with butter chicken and cheese,"Butter Chicken Poutine
+
+Primary Ingredients: Fries, butter chicken, cheese
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare fries and butter chicken. 2. Assemble with cheese."
+Generate a fusion recipe based on this description: Samosas topped with chaat-style ingredients,"Samosa Chaat
+
+Primary Ingredients: Samosas, chaat toppings
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare samosas. 2. Top with chaat spices and yogurt."
+Generate a fusion recipe based on this description: Tacos filled with chicken tikka,"Chicken Tikka Tacos
+
+Primary Ingredients: Chicken tikka, tortillas
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill chicken tikka. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Fish tacos with curry spices,"Curried Fish Tacos
+
+Primary Ingredients: Fish, curry spices, tortillas
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill fish with curry spices. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Quesadillas filled with spiced paneer,"Spicy Paneer Quesadillas
+
+Primary Ingredients: Paneer, tortillas, spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Prepare spiced paneer. 2. Grill in tortillas."
+Generate a fusion recipe based on this description: Tacos filled with spiced keema,"Keema Tacos
+
+Primary Ingredients: Keema, tortillas, cheese
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Cook keema. 2. Assemble in tortillas with cheese."
+Generate a fusion recipe based on this description: Indian spiced lamb burger,"Lamb Burger
+
+Primary Ingredients: Ground lamb, buns, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Season and grill lamb patties. 2. Assemble in buns."
+Generate a fusion recipe based on this description: Fries tossed with Indian masala spices,"Masala Fries
+
+Primary Ingredients: Fries, masala spices, chutney
+
+Cooking Method: Fry, Toss
+
+Steps (Brief): 1. Fry fries. 2. Toss with masala and chutney."
+Generate a fusion recipe based on this description: Spiced potato cakes with crispy coating,"Bombay Potato Cakes
+
+Primary Ingredients: Potatoes, spices, bread crumbs
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Mash spiced potatoes. 2. Coat and fry."
+Generate a fusion recipe based on this description: Pizza topped with tandoori chicken on naan,"Tandoori Chicken Pizza
+
+Primary Ingredients: Naan, tandoori chicken, cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Assemble naan with toppings. 2. Bake until cheese melts."
+Generate a fusion recipe based on this description: Meatballs with Indian spices and tomato sauce,"Indian-Spiced Meatballs
+
+Primary Ingredients: Ground meat, spices, tomato sauce
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Form meatballs. 2. Fry and simmer in sauce."
+Generate a fusion recipe based on this description: Poutine topped with chicken tikka,"Chicken Tikka Poutine
+
+Primary Ingredients: Fries, chicken tikka, cheese
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare fries and chicken tikka. 2. Assemble with cheese."
+Generate a fusion recipe based on this description: Ice cream with mango lassi flavors,"Mango Lassi Ice Cream
+
+Primary Ingredients: Mango, yogurt, cream
+
+Cooking Method: Blend, Freeze
+
+Steps (Brief): 1. Blend ingredients. 2. Freeze until set."
+Generate a fusion recipe based on this description: Quesadillas with palak paneer filling,"Palak Paneer Quesadillas
+
+Primary Ingredients: Palak paneer, tortillas, cheese
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Prepare palak paneer. 2. Grill in tortillas with cheese."
+Generate a fusion recipe based on this description: Grilled cheese with garlic naan,"Garlic Naan Grilled Cheese
+
+Primary Ingredients: Naan, cheese, garlic butter
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Spread garlic butter on naan. 2. Add cheese and grill."
+Generate a fusion recipe based on this description: Grilled prawns marinated in tandoori spices,"Tandoori Prawns
+
+Primary Ingredients: Prawns, tandoori spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate prawns in tandoori spices. 2. Grill until cooked."
+Generate a fusion recipe based on this description: Pizza topped with spicy chilli paneer,"Chilli Paneer Pizza
+
+Primary Ingredients: Paneer, pizza base, chillies
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare chilli paneer. 2. Top pizza base and bake."
+Generate a fusion recipe based on this description: Pizza topped with spicy chilli paneer,"Chilli Paneer Pizza
+
+Primary Ingredients: Paneer, pizza base, chillies
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare chilli paneer. 2. Top pizza base and bake."
+Generate a fusion recipe based on this description: Sliders with lamb patties spiced with Indian and Middle Eastern flavors,"Spiced Lamb Sliders
+
+Primary Ingredients: Lamb, spices, slider buns
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill spiced lamb patties. 2. Assemble in slider buns."
+Generate a fusion recipe based on this description: Burritos filled with paneer tikka and rice,"Paneer Tikka Burritos
+
+Primary Ingredients: Paneer, rice, tortillas
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill paneer tikka. 2. Assemble in tortillas with rice."
+Generate a fusion recipe based on this description: Tacos filled with lamb kofta,"Lamb Kofta Tacos
+
+Primary Ingredients: Lamb kofta, tortillas, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Prepare lamb kofta. 2. Grill and serve in tortillas."
+Generate a fusion recipe based on this description: Spiced fish tacos with Indian masala flavors,"Masala Fish Tacos
+
+Primary Ingredients: Fish, tortillas, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill spiced fish. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Nachos topped with tandoori chicken and cheese,"Tandoori Chicken Nachos
+
+Primary Ingredients: Chicken, tortilla chips, cheese
+
+Cooking Method: Grill, Bake
+
+Steps (Brief): 1. Grill chicken. 2. Assemble nachos and bake."
+Generate a fusion recipe based on this description: Fish tacos with mango salsa,"Mango Salsa Fish Tacos
+
+Primary Ingredients: Fish, mango salsa, tortillas
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Prepare fish. 2. Assemble with mango salsa in tortillas."
+Generate a fusion recipe based on this description: Fries tossed with spicy masala and chutney,"Spicy Masala Fries
+
+Primary Ingredients: Fries, masala, chutney
+
+Cooking Method: Fry, Toss
+
+Steps (Brief): 1. Fry fries. 2. Toss with masala and chutney."
+Generate a fusion recipe based on this description: Pizza with coconut curry as the sauce,"Coconut Curry Pizza
+
+Primary Ingredients: Coconut curry, pizza dough, cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare coconut curry sauce. 2. Spread on pizza dough and bake."
+Generate a fusion recipe based on this description: Quesadillas filled with butter chicken,"Butter Chicken Quesadillas
+
+Primary Ingredients: Chicken, cheese, tortillas
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Cook butter chicken. 2. Grill with cheese in tortillas."
+Generate a fusion recipe based on this description: Tacos filled with tandoori paneer,"Tandoori Paneer Tacos
+
+Primary Ingredients: Paneer, tortillas, spices
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Marinate and grill paneer. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Tacos filled with chicken tikka and salsa,"Chicken Tikka Tacos
+
+Primary Ingredients: Chicken tikka, tortillas, salsa
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill chicken tikka. 2. Assemble with salsa in tortillas."
+Generate a fusion recipe based on this description: Black cod marinated in miso and grilled,"Miso Black Cod
+
+Primary Ingredients: Black cod, miso, sake
+
+Cooking Method: Grill, Bake
+
+Steps (Brief): 1. Marinate fish in miso. 2. Grill until done."
+Generate a fusion recipe based on this description: Tacos filled with teriyaki chicken,"Teriyaki Chicken Tacos
+
+Primary Ingredients: Chicken, tortillas, teriyaki
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill chicken with teriyaki sauce. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Lasagna layered with Japanese curry,"Japanese Curry Lasagna
+
+Primary Ingredients: Ground beef, curry, lasagna
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare curry filling. 2. Layer with lasagna sheets. 3. Bake."
+Generate a fusion recipe based on this description: Large sushi rolls with burrito-style fillings,"Sushi Burritos
+
+Primary Ingredients: Sushi rice, nori, fillings
+
+Cooking Method: Roll, Assemble
+
+Steps (Brief): 1. Prepare sushi fillings. 2. Roll like a burrito."
+Generate a fusion recipe based on this description: Creamy cheesecake infused with matcha flavor,"Matcha Cheesecake
+
+Primary Ingredients: Matcha, cream cheese, sugar
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare cheesecake batter. 2. Bake until set."
+Generate a fusion recipe based on this description: Beef burgers with ramen noodle buns,"Ramen Burgers
+
+Primary Ingredients: Ramen noodles, beef patties
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Prepare ramen buns. 2. Grill patties. 3. Assemble."
+Generate a fusion recipe based on this description: A cross between Japanese okonomiyaki and pizza,"Okonomiyaki Pizza
+
+Primary Ingredients: Flour, cabbage, pork, cheese
+
+Cooking Method: Fry, Bake
+
+Steps (Brief): 1. Prepare batter. 2. Cook with toppings like pizza."
+Generate a fusion recipe based on this description: Classic mac and cheese with a miso twist,"Miso Mac and Cheese
+
+Primary Ingredients: Macaroni, miso, cheese
+
+Cooking Method: Boil, Bake
+
+Steps (Brief): 1. Make cheese sauce with miso. 2. Bake with pasta."
+Generate a fusion recipe based on this description: Salmon with a soy-ginger glaze,"Soy Ginger Glazed Salmon
+
+Primary Ingredients: Salmon, soy sauce, ginger
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Marinate salmon. 2. Bake until cooked."
+Generate a fusion recipe based on this description: Tacos filled with crispy tempura fish,"Tempura Fish Tacos
+
+Primary Ingredients: White fish, tempura batter
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry fish in tempura batter. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Deviled eggs with a spicy wasabi kick,"Wasabi Deviled Eggs
+
+Primary Ingredients: Eggs, mayo, wasabi
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Boil eggs. 2. Mix yolk with wasabi. 3. Fill egg whites."
+Generate a fusion recipe based on this description: Creamy carbonara with udon noodles,"Udon Carbonara
+
+Primary Ingredients: Udon noodles, eggs, bacon
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Cook udon. 2. Mix with egg and bacon like carbonara."
+Generate a fusion recipe based on this description: Rice bowls with marinated tuna and veggies,"Tuna Poke Bowls
+
+Primary Ingredients: Tuna, rice, avocado
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Marinate tuna. 2. Assemble with rice and toppings."
+Generate a fusion recipe based on this description: Italian meatballs with teriyaki sauce,"Teriyaki Meatballs
+
+Primary Ingredients: Ground beef, teriyaki sauce
+
+Cooking Method: Grill, Simmer
+
+Steps (Brief): 1. Prepare meatballs. 2. Cook in teriyaki sauce."
+Generate a fusion recipe based on this description: Miso soup with Italian tortellini,"Miso Soup with Tortellini
+
+Primary Ingredients: Miso, tortellini, dashi
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Prepare miso soup. 2. Add tortellini and cook."
+Generate a fusion recipe based on this description: Crispy katsu chicken in slider buns,"Chicken Katsu Sliders
+
+Primary Ingredients: Chicken, slider buns, panko
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry chicken katsu. 2. Assemble in slider buns."
+Generate a fusion recipe based on this description: Creamy mashed potatoes with a wasabi kick,"Wasabi Mashed Potatoes
+
+Primary Ingredients: Potatoes, butter, wasabi
+
+Cooking Method: Boil, Mash
+
+Steps (Brief): 1. Boil potatoes. 2. Mash with butter and wasabi."
+Generate a fusion recipe based on this description: Traditional tiramisu with matcha flavor,"Green Tea Tiramisu
+
+Primary Ingredients: Matcha, mascarpone, ladyfingers
+
+Cooking Method: Layer, Chill
+
+Steps (Brief): 1. Layer matcha cream and ladyfingers. 2. Chill."
+Generate a fusion recipe based on this description: Pizza topped with teriyaki chicken,"Teriyaki Chicken Pizza
+
+Primary Ingredients: Pizza dough, chicken, teriyaki
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare pizza dough. 2. Add teriyaki chicken and bake."
+Generate a fusion recipe based on this description: Grilled steak marinated in sake and soy sauce,"Sake-Marinated Grilled Steak
+
+Primary Ingredients: Steak, sake, soy sauce
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate steak. 2. Grill to desired doneness."
+Generate a fusion recipe based on this description: Cold ramen salad with French vinaigrette,"Ramen Salad
+
+Primary Ingredients: Ramen noodles, veggies, dressing
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Cook ramen. 2. Toss with vegetables and dressing."
+Generate a fusion recipe based on this description: Fluffy pancakes flavored with matcha,"Matcha Pancakes
+
+Primary Ingredients: Matcha, flour, eggs, milk
+
+Cooking Method: Mix, Fry
+
+Steps (Brief): 1. Mix pancake batter with matcha. 2. Fry until golden."
+Generate a fusion recipe based on this description: Roasted Brussels sprouts with soy glaze,"Soy-Glazed Brussels Sprouts
+
+Primary Ingredients: Brussels sprouts, soy sauce
+
+Cooking Method: Roast
+
+Steps (Brief): 1. Roast Brussels sprouts. 2. Toss with soy glaze."
+Generate a fusion recipe based on this description: Seared tuna served on a bed of greens,"Tuna Tataki Salad
+
+Primary Ingredients: Seared tuna, mixed greens
+
+Cooking Method: Sear, Assemble
+
+Steps (Brief): 1. Sear tuna. 2. Assemble salad with greens and dressing."
+Generate a fusion recipe based on this description: Crispy tempura battered chicken wings,"Tempura Fried Chicken Wings
+
+Primary Ingredients: Chicken wings, tempura batter
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Fry wings in tempura batter."
+Generate a fusion recipe based on this description: Large sushi rolls with burrito-style fillings,"Japanese Style Burritos
+
+Primary Ingredients: Sushi rice, nori, fillings
+
+Cooking Method: Roll, Assemble
+
+Steps (Brief): 1. Prepare sushi fillings. 2. Roll like a burrito."
+Generate a fusion recipe based on this description: Tacos filled with teriyaki beef,"Teriyaki Beef Tacos
+
+Primary Ingredients: Beef, tortillas, teriyaki sauce
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill beef with teriyaki sauce. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Creamy carbonara using ramen noodles,"Ramen Carbonara
+
+Primary Ingredients: Ramen, eggs, bacon
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Cook ramen. 2. Mix with eggs and bacon."
+Generate a fusion recipe based on this description: Creamy ice cream infused with matcha flavor,"Matcha Green Tea Ice Cream
+
+Primary Ingredients: Matcha, cream, sugar
+
+Cooking Method: Freeze
+
+Steps (Brief): 1. Mix ingredients. 2. Freeze until set."
+Generate a fusion recipe based on this description: French fries topped with katsu curry sauce,"Katsu Curry Fries
+
+Primary Ingredients: Fries, curry sauce, katsu
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry katsu and fries. 2. Top fries with curry sauce."
+Generate a fusion recipe based on this description: Tacos filled with crispy panko-crusted fish,"Panko-Crusted Fish Tacos
+
+Primary Ingredients: White fish, panko, tortillas
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry fish in panko. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Grilled vegetables with a miso glaze,"Miso Grilled Vegetables
+
+Primary Ingredients: Vegetables, miso, soy sauce
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Grill vegetables. 2. Brush with miso glaze."
+Generate a fusion recipe based on this description: Grilled cheese with pork katsu filling,"Katsu Grilled Cheese
+
+Primary Ingredients: Bread, cheese, pork katsu
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Fry pork katsu. 2. Assemble grilled cheese."
+Generate a fusion recipe based on this description: Stir-fried soba noodles with vegetables,"Soba Noodle Stir-fry
+
+Primary Ingredients: Soba noodles, vegetables, soy sauce
+
+Cooking Method: Stir-fry
+
+Steps (Brief): 1. Cook soba noodles. 2. Stir-fry with vegetables and soy sauce."
+Generate a fusion recipe based on this description: Tacos with grilled teriyaki shrimp,"Teriyaki Shrimp Tacos
+
+Primary Ingredients: Shrimp, tortillas, teriyaki sauce
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill shrimp. 2. Assemble with tortillas and toppings."
+Generate a fusion recipe based on this description: Crispy panko chicken tenders with dipping sauce,"Panko-Crusted Chicken Tenders
+
+Primary Ingredients: Chicken, panko, spices
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Coat chicken in panko. 2. Fry until golden."
+Generate a fusion recipe based on this description: Tangy yuzu and lime pie with a graham cracker crust,"Yuzu Lime Pie
+
+Primary Ingredients: Yuzu, lime, condensed milk
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Mix yuzu and lime filling. 2. Bake with crust."
+Generate a fusion recipe based on this description: Stir-fried ramen noodles with vegetables,"Ramen Stir-Fry with Vegetables
+
+Primary Ingredients: Ramen noodles, vegetables, soy sauce
+
+Cooking Method: Stir-fry
+
+Steps (Brief): 1. Cook ramen noodles. 2. Stir-fry with vegetables and soy sauce."
+Generate a fusion recipe based on this description: Lettuce wraps with teriyaki chicken,"Teriyaki Chicken Wraps
+
+Primary Ingredients: Chicken, teriyaki sauce, lettuce wraps
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill chicken. 2. Assemble in lettuce wraps."
+Generate a fusion recipe based on this description: Tacos filled with sushi ingredients,"Sushi Tacos
+
+Primary Ingredients: Sushi rice, raw fish, tortillas
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare sushi filling. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Stir-fried udon noodles with chicken and soy sauce,"Udon Stir-fry with Chicken
+
+Primary Ingredients: Udon noodles, chicken, soy sauce
+
+Cooking Method: Stir-fry
+
+Steps (Brief): 1. Cook udon. 2. Stir-fry with chicken and soy sauce."
+Generate a fusion recipe based on this description: Avocado fries coated in panko,"Panko-Crusted Avocado Fries
+
+Primary Ingredients: Avocado, panko, spices
+
+Cooking Method: Fry, Bake
+
+Steps (Brief): 1. Coat avocado in panko. 2. Fry or bake until crispy."
+Generate a fusion recipe based on this description: Grilled teriyaki salmon in lettuce wraps,"Teriyaki Salmon Wraps
+
+Primary Ingredients: Salmon, teriyaki sauce, lettuce
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill salmon with teriyaki sauce. 2. Assemble in lettuce wraps."
+Generate a fusion recipe based on this description: Brownies with a savory miso twist,"Miso Brownies
+
+Primary Ingredients: Chocolate, miso, eggs
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Mix brownie batter with miso. 2. Bake until done."
+Generate a fusion recipe based on this description: Tacos filled with katsu chicken,"Katsu Chicken Tacos
+
+Primary Ingredients: Chicken, tortillas, katsu sauce
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry katsu chicken. 2. Assemble in tortillas with sauce."
+Generate a fusion recipe based on this description: Grilled eggplant with miso glaze,"Miso-Glazed Eggplant
+
+Primary Ingredients: Eggplant, miso, soy sauce
+
+Cooking Method: Grill, Roast
+
+Steps (Brief): 1. Marinate eggplant. 2. Grill or roast with glaze."
+Generate a fusion recipe based on this description: Salad with ramen noodles and chicken,"Ramen Chicken Salad
+
+Primary Ingredients: Ramen noodles, chicken, vegetables
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Cook ramen. 2. Mix with chicken and salad."
+Generate a fusion recipe based on this description: Burritos filled with teriyaki beef,"Teriyaki Beef Burritos
+
+Primary Ingredients: Beef, tortillas, teriyaki sauce
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill beef. 2. Assemble in tortillas with teriyaki sauce."
+Generate a fusion recipe based on this description: Fish tacos with Japanese soy sauce glaze,"Japanese-Inspired Fish Tacos
+
+Primary Ingredients: Fish, tortillas, soy sauce
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill fish with soy glaze. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Mozzarella sticks coated with panko,"Panko-Crusted Mozzarella Sticks
+
+Primary Ingredients: Mozzarella, panko, marinara sauce
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Coat mozzarella in panko. 2. Fry until golden."
+Generate a fusion recipe based on this description: Chicken meatballs simmered in teriyaki sauce,"Teriyaki Chicken Meatballs
+
+Primary Ingredients: Ground chicken, teriyaki sauce
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Form meatballs. 2. Fry and simmer in sauce."
+Generate a fusion recipe based on this description: Tacos filled with panko-crusted shrimp,"Panko-Crusted Shrimp Tacos
+
+Primary Ingredients: Shrimp, panko, tortillas
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry shrimp in panko batter. 2. Serve in tortillas."
+Generate a fusion recipe based on this description: Sushi made with naan instead of seaweed,"Naan Sushi
+
+Primary Ingredients: Naan, sushi rice, raw fish
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare naan. 2. Assemble with sushi rice and raw fish."
+Generate a fusion recipe based on this description: Ramen with tandoori spiced broth,"Tandoori Miso Ramen
+
+Primary Ingredients: Ramen noodles, miso, tandoori spices
+
+Cooking Method: Boil, Simmer
+
+Steps (Brief): 1. Prepare ramen. 2. Add tandoori spices to broth."
+Generate a fusion recipe based on this description: Samosas with wasabi-infused filling,"Wasabi Samosas
+
+Primary Ingredients: Samosa dough, wasabi, potatoes
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Make filling with wasabi. 2. Wrap in dough and fry."
+Generate a fusion recipe based on this description: Pakoras fried in Japanese tempura batter,"Tempura Pakoras
+
+Primary Ingredients: Vegetables, tempura batter
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Prepare vegetables. 2. Coat in tempura batter and fry."
+Generate a fusion recipe based on this description: Soup with Indian curry and Japanese miso,"Miso Curry Soup
+
+Primary Ingredients: Miso, curry powder, tofu
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Boil miso soup. 2. Add curry powder and tofu."
+Generate a fusion recipe based on this description: Dosa filled with sushi ingredients,"Sushi Dosa
+
+Primary Ingredients: Rice, dosa batter, vegetables
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Prepare dosa batter. 2. Fill with sushi rice and vegetables."
+Generate a fusion recipe based on this description: Stir-fried udon noodles with Indian spices,"Udon Masala
+
+Primary Ingredients: Udon noodles, garam masala, vegetables
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Boil udon noodles. 2. Stir-fry with garam masala."
+Generate a fusion recipe based on this description: Paneer wrapped in nori with wasabi,"Wasabi Paneer Rolls
+
+Primary Ingredients: Paneer, wasabi, nori
+
+Cooking Method: Roll, Assemble
+
+Steps (Brief): 1. Marinate paneer. 2. Wrap with nori and serve with wasabi."
+Generate a fusion recipe based on this description: Tandoori chicken marinated with teriyaki sauce,"Tikka Teriyaki Chicken
+
+Primary Ingredients: Chicken, tikka marinade, teriyaki sauce
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken. 2. Grill with teriyaki glaze."
+Generate a fusion recipe based on this description: Lentil fritters made with tempura batter,"Tempura Lentil Fritters
+
+Primary Ingredients: Lentils, tempura batter
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Prepare lentil batter. 2. Fry in tempura batter."
+Generate a fusion recipe based on this description: Paratha wrapped around sushi ingredients,"Sushi Paratha
+
+Primary Ingredients: Paratha dough, sushi rice, vegetables
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare paratha. 2. Roll with sushi filling."
+Generate a fusion recipe based on this description: Sushi rolls filled with paneer,"Paneer Sushi Rolls
+
+Primary Ingredients: Paneer, sushi rice, nori
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare sushi rice. 2. Roll with paneer in nori."
+Generate a fusion recipe based on this description: Udon noodles cooked in Indian curry broth,"Curry Udon Noodles
+
+Primary Ingredients: Udon noodles, curry paste, vegetables
+
+Cooking Method: Boil, Simmer
+
+Steps (Brief): 1. Cook udon. 2. Simmer in curry broth."
+Generate a fusion recipe based on this description: Chutney with a kick of wasabi,"Wasabi Chutney
+
+Primary Ingredients: Wasabi, coriander, mint
+
+Cooking Method: Blend
+
+Steps (Brief): 1. Blend wasabi with chutney ingredients."
+Generate a fusion recipe based on this description: Ramen noodles with Indian masala flavors,"Masala Ramen
+
+Primary Ingredients: Ramen noodles, masala, vegetables
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Cook ramen. 2. Stir-fry with masala and vegetables."
+Generate a fusion recipe based on this description: Sushi rolls with tandoori flavors,"Tandoori Sushi
+
+Primary Ingredients: Sushi rice, tandoori spices, vegetables
+
+Cooking Method: Roll, Assemble
+
+Steps (Brief): 1. Mix sushi rice with tandoori spices. 2. Roll with vegetables."
+Generate a fusion recipe based on this description: Butter chicken with a Japanese miso twist,"Miso Butter Chicken
+
+Primary Ingredients: Chicken, miso, butter
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Cook chicken in butter and miso."
+Generate a fusion recipe based on this description: Naan bread infused with wasabi,"Wasabi Naan Bread
+
+Primary Ingredients: Naan dough, wasabi, yogurt
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare naan dough. 2. Bake with wasabi paste."
+Generate a fusion recipe based on this description: Paneer fried in light tempura batter,"Paneer Tempura
+
+Primary Ingredients: Paneer, tempura batter
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Dip paneer in tempura batter. 2. Fry until crispy."
+Generate a fusion recipe based on this description: Traditional thali with sushi-style presentation,"Sushi Thali
+
+Primary Ingredients: Sushi rice, various sushi toppings
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Arrange sushi rice and toppings in thali style."
+Generate a fusion recipe based on this description: Stir-fried noodles with tandoori and teriyaki mix,"Tandoori Teriyaki Noodles
+
+Primary Ingredients: Noodles, tandoori spices, soy sauce
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Boil noodles. 2. Stir-fry with tandoori and teriyaki."
+Generate a fusion recipe based on this description: Indian-style chaat made with ramen noodles,"Ramen Chaat
+
+Primary Ingredients: Ramen noodles, tamarind sauce
+
+Cooking Method: Boil, Mix
+
+Steps (Brief): 1. Boil ramen. 2. Mix with chaat ingredients."
+Generate a fusion recipe based on this description: Sushi rolls with biryani rice and raw fish,"Sushi Biryani
+
+Primary Ingredients: Biryani rice, raw fish, vegetables
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Cook biryani rice. 2. Roll with sushi ingredients."
+Generate a fusion recipe based on this description: Fries with wasabi and Indian masala,"Wasabi Masala Fries
+
+Primary Ingredients: Potatoes, wasabi, masala spices
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Fry potatoes. 2. Toss with wasabi and masala."
+Generate a fusion recipe based on this description: Dal soup flavored with miso paste,"Miso Dal Soup
+
+Primary Ingredients: Dal, miso, lentils
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Simmer lentils. 2. Add miso paste for flavor."
+Generate a fusion recipe based on this description: Chicken skewers with tempura and tikka flavors,"Tempura Tikka Skewers
+
+Primary Ingredients: Chicken, tempura batter, tandoori spices
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Coat chicken in tempura and tandoori spices. 2. Fry skewers."
+Generate a fusion recipe based on this description: Paneer butter masala with ramen noodles,"Ramen Paneer Butter Masala
+
+Primary Ingredients: Paneer, ramen noodles, butter
+
+Cooking Method: Boil, Simmer
+
+Steps (Brief): 1. Cook ramen. 2. Add paneer butter masala sauce."
+Generate a fusion recipe based on this description: Raita with a wasabi kick,"Wasabi Raita
+
+Primary Ingredients: Yogurt, wasabi, cucumber
+
+Cooking Method: Mix
+
+Steps (Brief): 1. Mix yogurt, cucumber, and wasabi."
+Generate a fusion recipe based on this description: Uttapam topped with sushi ingredients,"Sushi Uttapam
+
+Primary Ingredients: Uttapam batter, sushi rice, vegetables
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill uttapam. 2. Top with sushi rice and vegetables."
+Generate a fusion recipe based on this description: Ramen noodles in tikka masala sauce,"Ramen Tikka Masala
+
+Primary Ingredients: Ramen noodles, tikka masala
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Boil ramen. 2. Stir-fry with tikka masala sauce."
+Generate a fusion recipe based on this description: Dosa filled with tempura-fried vegetables,"Tempura Dosas
+
+Primary Ingredients: Dosa batter, tempura vegetables
+
+Cooking Method: Fry, Grill
+
+Steps (Brief): 1. Grill dosa. 2. Fill with tempura vegetables."
+Generate a fusion recipe based on this description: Indian pav bhaji with wasabi flavor,"Wasabi Pav Bhaji
+
+Primary Ingredients: Potatoes, wasabi, peas
+
+Cooking Method: Boil, Mash
+
+Steps (Brief): 1. Mash vegetables. 2. Add wasabi paste for flavor."
+Generate a fusion recipe based on this description: Yakitori chicken with Indian masala spices,"Masala Yakitori
+
+Primary Ingredients: Chicken, masala, yakitori sauce
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken. 2. Grill with yakitori sauce."
+Generate a fusion recipe based on this description: Bhaji rolls with wasabi for a fusion kick,"Wasabi Bhaji Rolls
+
+Primary Ingredients: Chickpea flour, wasabi, vegetables
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Make bhaji batter. 2. Fry and assemble into rolls with wasabi."
+Generate a fusion recipe based on this description: Traditional Indian sambar with a miso twist,"Miso Sambar
+
+Primary Ingredients: Lentils, miso, vegetables
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Boil lentils and vegetables. 2. Add miso for extra flavor."
+Generate a fusion recipe based on this description: Samosas stuffed with sushi ingredients,"Sushi Samosas
+
+Primary Ingredients: Samosa dough, sushi fillings
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Prepare sushi-style fillings. 2. Wrap in samosa dough and fry."
+Generate a fusion recipe based on this description: Udon noodles cooked with biryani spices,"Udon Biryani
+
+Primary Ingredients: Udon noodles, biryani spices
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Cook udon noodles. 2. Stir-fry with biryani spices."
+Generate a fusion recipe based on this description: Stir-fried noodles with tandoori spiced chicken,"Tandoori Noodle Stir-Fry
+
+Primary Ingredients: Noodles, tandoori spices
+
+Cooking Method: Stir-fry
+
+Steps (Brief): 1. Stir-fry noodles. 2. Add tandoori spiced chicken."
+Generate a fusion recipe based on this description: Paneer cooked with teriyaki glaze,"Paneer Teriyaki
+
+Primary Ingredients: Paneer, teriyaki sauce
+
+Cooking Method: Grill, Stir-fry
+
+Steps (Brief): 1. Grill paneer. 2. Glaze with teriyaki sauce."
+Generate a fusion recipe based on this description: Miso soup with an Indian masala infusion,"Masala Miso Soup
+
+Primary Ingredients: Miso paste, Indian spices
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Simmer miso soup. 2. Add Indian masala for flavor."
+Generate a fusion recipe based on this description: Sushi rice-filled pakoras,"Sushi Pakoras
+
+Primary Ingredients: Vegetables, sushi rice, tempura batter
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Prepare pakora batter. 2. Fry with sushi rice stuffing."
+Generate a fusion recipe based on this description: Butter chicken skewers with yakitori flavors,"Yakitori Butter Chicken Skewers
+
+Primary Ingredients: Chicken, yakitori sauce, butter
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate chicken. 2. Grill with yakitori sauce and butter."
+Generate a fusion recipe based on this description: Paratha wraps filled with ramen noodles,"Ramen Paratha Wraps
+
+Primary Ingredients: Ramen noodles, paratha bread
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare paratha. 2. Fill with stir-fried ramen noodles."
+Generate a fusion recipe based on this description: Tempura-style fried okra,"Tempura Bhindi
+
+Primary Ingredients: Okra, tempura batter
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Coat okra in tempura batter. 2. Fry until crispy."
+Generate a fusion recipe based on this description: Sashimi with a tikka spice rub,"Tikka Sashimi
+
+Primary Ingredients: Raw fish, tikka spices
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Rub fish with tikka spices. 2. Serve raw as sashimi."
+Generate a fusion recipe based on this description: Paneer burger with katsu-style breading,"Katsu Paneer Burger
+
+Primary Ingredients: Paneer, panko, burger buns
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Bread paneer in panko. 2. Fry and assemble in burger buns."
+Generate a fusion recipe based on this description: Aloo gobi flavored with Japanese miso,"Miso Aloo Gobi
+
+Primary Ingredients: Cauliflower, miso, potatoes
+
+Cooking Method: Stir-fry
+
+Steps (Brief): 1. Stir-fry aloo gobi. 2. Add miso for flavor."
+Generate a fusion recipe based on this description: Indian egg bhurji with a wasabi twist,"Wasabi Bhurji
+
+Primary Ingredients: Eggs, wasabi, Indian spices
+
+Cooking Method: Scramble
+
+Steps (Brief): 1. Scramble eggs with wasabi and spices."
+Generate a fusion recipe based on this description: Pani puri served with tempura shells,"Tempura Pani Puri
+
+Primary Ingredients: Tempura batter, puri, potatoes
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry puri in tempura batter. 2. Add pani puri filling."
+Generate a fusion recipe based on this description: Spiced potato tikkis with a wasabi flavor kick,"Wasabi Aloo Tikki
+
+Primary Ingredients: Potatoes, wasabi, spices
+
+Cooking Method: Fry
+
+Steps (Brief): 1. Mix potatoes with wasabi. 2. Fry into tikkis."
+Generate a fusion recipe based on this description: Ramen noodles with Indian curry sauce,"Curry Ramen
+
+Primary Ingredients: Ramen noodles, curry powder
+
+Cooking Method: Boil
+
+Steps (Brief): 1. Boil ramen noodles. 2. Add curry sauce."
+Generate a fusion recipe based on this description: Description,"Recipe Name
+
+Primary Ingredients: Primary Ingredients
+
+Cooking Method: Cooking Method
+
+Steps (Brief): Steps (Brief)"
+Generate a fusion recipe based on this description: A blend of American and Mexican spices in chili,"Tex-Mex Chili
+
+Primary Ingredients: Ground beef, beans, chili spices
+
+Cooking Method: Simmer
+
+Steps (Brief): 1. Sauté beef. 2. Simmer with spices and beans."
+Generate a fusion recipe based on this description: Burrito filled with sushi ingredients,"Sushi Burrito
+
+Primary Ingredients: Sushi rice, raw fish, nori
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Roll sushi rice with fish in a burrito style."
+Generate a fusion recipe based on this description: Tacos with Korean-style kimchi and grilled pork,"Kimchi Tacos
+
+Primary Ingredients: Kimchi, tortillas, pork
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill pork. 2. Assemble with kimchi in tortillas."
+Generate a fusion recipe based on this description: Pizza topped with butter chicken,"Butter Chicken Pizza
+
+Primary Ingredients: Butter chicken, pizza dough, cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare pizza dough. 2. Top with butter chicken and bake."
+Generate a fusion recipe based on this description: Bao buns filled with BBQ chicken,"BBQ Chicken Bao Buns
+
+Primary Ingredients: Chicken, bao buns, BBQ sauce
+
+Cooking Method: Steam, Assemble
+
+Steps (Brief): 1. Steam bao buns. 2. Fill with BBQ chicken."
+Generate a fusion recipe based on this description: Soba noodles with Thai-inspired spices,"Spicy Soba Noodle Salad
+
+Primary Ingredients: Soba noodles, vegetables, spices
+
+Cooking Method: Boil, Toss
+
+Steps (Brief): 1. Boil soba. 2. Toss with spicy dressing and vegetables."
+Generate a fusion recipe based on this description: Fusion of ramen with Italian carbonara sauce,"Ramen Carbonara
+
+Primary Ingredients: Ramen noodles, pancetta, egg
+
+Cooking Method: Boil, Stir-fry
+
+Steps (Brief): 1. Cook ramen. 2. Mix with carbonara sauce and pancetta."
+Generate a fusion recipe based on this description: Ceviche with a Japanese twist using soy sauce,"Peruvian Nikkei Ceviche
+
+Primary Ingredients: Raw fish, lime, soy sauce
+
+Cooking Method: Marinate
+
+Steps (Brief): 1. Marinate fish in lime and soy sauce."
+Generate a fusion recipe based on this description: Tacos filled with spiced paneer,"Paneer Tikka Tacos
+
+Primary Ingredients: Paneer, tortillas, salsa
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill paneer. 2. Assemble in tortillas with salsa."
+Generate a fusion recipe based on this description: Meatballs simmered in teriyaki sauce,"Teriyaki Meatballs
+
+Primary Ingredients: Ground beef, teriyaki sauce
+
+Cooking Method: Fry, Simmer
+
+Steps (Brief): 1. Form meatballs. 2. Fry and simmer in teriyaki sauce."
+Generate a fusion recipe based on this description: Nachos topped with Korean BBQ beef,"Korean BBQ Nachos
+
+Primary Ingredients: Beef, tortilla chips, cheese
+
+Cooking Method: Bake, Assemble
+
+Steps (Brief): 1. Grill beef. 2. Assemble nachos with toppings and bake."
+Generate a fusion recipe based on this description: Churro sandwich with ice cream filling,"Churro Ice Cream Sandwich
+
+Primary Ingredients: Churro dough, ice cream
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry churro dough. 2. Assemble with ice cream."
+Generate a fusion recipe based on this description: Tacos filled with falafel and salsa,"Falafel Tacos
+
+Primary Ingredients: Falafel, tortillas, salsa
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry falafel. 2. Assemble in tortillas with salsa."
+Generate a fusion recipe based on this description: Miso-marinated black cod,"Miso Black Cod
+
+Primary Ingredients: Black cod, miso, soy sauce
+
+Cooking Method: Marinate, Grill
+
+Steps (Brief): 1. Marinate cod in miso. 2. Grill until done."
+Generate a fusion recipe based on this description: Enchiladas filled with chicken and mole sauce,"Chicken Mole Enchiladas
+
+Primary Ingredients: Chicken, mole sauce, tortillas
+
+Cooking Method: Bake, Assemble
+
+Steps (Brief): 1. Fill tortillas with chicken. 2. Bake with mole sauce."
+Generate a fusion recipe based on this description: Pizza with Jamaican jerk chicken topping,"Jerk Chicken Pizza
+
+Primary Ingredients: Jerk chicken, pizza dough
+
+Cooking Method: Bake, Assemble
+
+Steps (Brief): 1. Prepare pizza dough. 2. Add jerk chicken and bake."
+Generate a fusion recipe based on this description: Italian pasta with Thai basil pesto,"Thai Basil Pesto Pasta
+
+Primary Ingredients: Pasta, Thai basil, garlic
+
+Cooking Method: Boil, Blend
+
+Steps (Brief): 1. Boil pasta. 2. Blend Thai basil with garlic and serve."
+Generate a fusion recipe based on this description: Mac and cheese with Indian curry spices,"Indian Curry Mac and Cheese
+
+Primary Ingredients: Macaroni, cheese, curry powder
+
+Cooking Method: Boil, Bake
+
+Steps (Brief): 1. Cook macaroni. 2. Add curry-flavored cheese sauce and bake."
+Generate a fusion recipe based on this description: Tacos filled with Thai-flavored chicken,"Thai Chicken Tacos
+
+Primary Ingredients: Chicken, tortillas, peanut sauce
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill chicken. 2. Assemble with peanut sauce in tortillas."
+Generate a fusion recipe based on this description: Quesadillas filled with Korean beef bulgogi,"Bulgogi Quesadillas
+
+Primary Ingredients: Beef bulgogi, tortillas, cheese
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Prepare beef bulgogi. 2. Grill with cheese in tortillas."
+Generate a fusion recipe based on this description: Salmon grilled with Indian tandoori spices,"Tandoori Salmon
+
+Primary Ingredients: Salmon, tandoori spices
+
+Cooking Method: Grill
+
+Steps (Brief): 1. Marinate salmon in tandoori spices. 2. Grill until cooked."
+Generate a fusion recipe based on this description: Tacos filled with sweet and sour chicken,"Sweet and Sour Chicken Tacos
+
+Primary Ingredients: Chicken, tortillas, sweet and sour sauce
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill chicken. 2. Assemble in tortillas with sweet and sour sauce."
+Generate a fusion recipe based on this description: Tacos filled with sushi ingredients,"Sushi Tacos
+
+Primary Ingredients: Sushi rice, raw fish, tortillas
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare sushi fillings. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Nachos made with pita chips and Greek toppings,"Greek Nachos
+
+Primary Ingredients: Pita chips, feta cheese, olives
+
+Cooking Method: Bake, Assemble
+
+Steps (Brief): 1. Bake pita chips. 2. Top with feta, olives, and Greek ingredients."
+Generate a fusion recipe based on this description: Fish tacos with tempura batter,"Tempura Fish Tacos
+
+Primary Ingredients: Tempura batter, fish, tortillas
+
+Cooking Method: Fry, Assemble
+
+Steps (Brief): 1. Fry fish in tempura batter. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Creamy cheesecake infused with matcha flavor,"Matcha Cheesecake
+
+Primary Ingredients: Matcha powder, cream cheese
+
+Cooking Method: Bake
+
+Steps (Brief): 1. Prepare cheesecake batter. 2. Bake with matcha."
+Generate a fusion recipe based on this description: Burritos filled with Caribbean coconut shrimp,"Coconut Shrimp Burritos
+
+Primary Ingredients: Shrimp, coconut, tortillas
+
+Cooking Method: Grill, Assemble
+
+Steps (Brief): 1. Grill shrimp. 2. Assemble in tortillas with coconut sauce."
+Generate a fusion recipe based on this description: Pizza topped with Moroccan lamb and harissa,"Moroccan Spiced Pizza
+
+Primary Ingredients: Pizza dough, harissa, lamb
+
+Cooking Method: Bake, Assemble
+
+Steps (Brief): 1. Prepare pizza dough. 2. Top with lamb and bake."
+Generate a fusion recipe based on this description: Burritos filled with pho ingredients,"Pho Burritos
+
+Primary Ingredients: Rice noodles, beef, tortillas
+
+Cooking Method: Assemble
+
+Steps (Brief): 1. Prepare pho noodles and beef. 2. Assemble in tortillas."
+Generate a fusion recipe based on this description: Pizza topped with Peking duck and hoisin sauce,"Peking Duck Pizza
+
+Primary Ingredients: Duck, pizza dough, hoisin sauce
+
+Cooking Method: Bake, Assemble
+
+Steps (Brief): 1. Prepare pizza dough. 2. Top with duck and bake."
